@@ -1,6 +1,6 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-08-24T23:23:39Z",
+  "last_updated": "2026-08-25T11:16:47Z",
   "stories": [
     {
       "title": "US territories hit out at Trump plan to explore deep sea mining in the Pacific",
@@ -143,6 +143,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Sony 公關災難再一波！郵件提醒玩家數位遊戲只有「使用權」",
+      "source": "Liberty Times",
+      "url": "https://3c.ltn.com.tw/news/67329",
+      "published_date": "2026-08-25T10:16:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "韓美外長通話強調緊密合作  南韓針對荷姆茲海峽議題表態了",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5551247",
+      "published_date": "2026-08-25T03:51:46Z",
+      "category": "Military"
+    },
+    {
       "title": "Taipower planning for AI power demand",
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/25/2003863061",
@@ -266,20 +280,6 @@
       "source": "Liberty Times",
       "url": "https://news.ltn.com.tw/news/world/breakingnews/5550301",
       "published_date": "2026-08-24T04:56:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "The case of Five Bears suspected of being a Japanese national treasure caused a stir! Countries impose harsh sentences on disqualified tourists, with a maximum sentence of 7 years",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5550077",
-      "published_date": "2026-08-24T02:19:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Defense ministry details measures it is implementing to boost recruitment",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/24/2003863015",
-      "published_date": "2026-08-24T00:00:00Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,13 @@
       "category": "Energy"
     },
     {
+      "title": "美國祭「經濟窒息」制裁 伊朗回嗆：等著我們進攻",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5551086",
+      "published_date": "2026-08-25T02:14:18Z",
+      "category": "Economy"
+    },
+    {
       "title": "Nine indicted over AI server exports",
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/08/25/2003863077",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "00940 The monthly interest distribution was raised to 0.055 yuan, and the annualized interest distribution rate reached 5.3%.",
+      "title": "台南鐵路地下化照顧住宅 釋出6戶店舖與13格車位",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5550534",
-      "published_date": "2026-08-24T08:14:29Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Taipei leads the rise in average life expectancy",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/25/2003863078",
-      "published_date": "2026-08-25T00:00:00Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5552014",
+      "published_date": "2026-08-25T11:11:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Heavy rains cause floods, landslides, mass evacuations",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/25/2003863079",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "五熊恐不只罰錢  涉損國寶最重關5年 後續代價一次看",
+      "source": "Liberty Times",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5552030",
+      "published_date": "2026-08-25T11:11:01Z",
       "category": "Local Events"
     },
     {
-      "title": "European leaders mark Ukraine’s Independence Day",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/25/2003863080",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "豪雨重創南部農損近億 嘉義最慘、木瓜受損逾兩千萬",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5552017",
+      "published_date": "2026-08-25T11:10:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Investigators search the offices of KMT lawmaker",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863089",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "《蜘蛛人：重生日》台灣票房猛破5億大關！刷新索尼、蜘蛛人系列票房天花板",
+      "source": "Liberty Times",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5552029",
+      "published_date": "2026-08-25T11:10:39Z",
       "category": "Local Events"
     },
     {
-      "title": "China ‘all bark, no bite’ in maritime incidents: source",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863090",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "中職》杰克今天預定二軍出賽又泡湯 只能利用牛棚補足投球量",
+      "source": "Liberty Times",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5552048",
+      "published_date": "2026-08-25T11:09:19Z",
       "category": "Local Events"
     },
     {
-      "title": "New China rules put Taiwanese at risk: source",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863092",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "7月製造業指數年增26.89％   連29紅",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5552034",
+      "published_date": "2026-08-25T11:07:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Taiwan phases out AT-3 trainer after decades of service",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863093",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "羅志祥西門町寵粉玩太開！突喊「先舉鞋子」粉絲光速照做",
+      "source": "Liberty Times",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5552015",
+      "published_date": "2026-08-25T11:05:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Alliance urges improved traffic safety",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863094",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "馬博橫斷玉林橋女山友落水失蹤  空拍機發現遺體",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5551175",
+      "published_date": "2026-08-25T11:05:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Automatic subscription renewals to be banned",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863095",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "沙德爾路徑確定北修「威脅降低」！週四晚到週五全台有雨",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5552023",
+      "published_date": "2026-08-25T11:01:00Z",
       "category": "Local Events"
     },
     {
-      "title": "TASA rockets conduct test flights despite heavy rain",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863096",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "自由開講》守住自由民主 台灣的三道防線",
+      "source": "Liberty Times",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5545346",
+      "published_date": "2026-08-25T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Typhoon Saudel disrupts today’s flights between Taiwan, Okinawa",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863099",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "台南市佳里、官田區長及3戶政主任宣誓上任 黃偉哲盼貼近民意",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5552002",
+      "published_date": "2026-08-25T10:59:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Taiwan News Quick Take",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863100",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "中元普度逾千公斤白米 台電台南區處代好兄弟全捐送暖",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5552000",
+      "published_date": "2026-08-25T10:58:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Neighborly visit",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863101",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "才剛復耕又受災好無奈 屏縣農損近170公頃、逾880萬元",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5552016",
+      "published_date": "2026-08-25T10:56:42Z",
       "category": "Local Events"
     },
     {
-      "title": "New designs",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863102",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "8/29、8/30航海人員測驗 航港局：如高雄或新北放颱風假就取消",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5551977",
+      "published_date": "2026-08-25T10:54:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Precision healthcare could be Taiwan’s strength",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/25/2003863063",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "曹雨婷被控挪用公款！董至成揭她私下面曝金流：她是會做事的",
+      "source": "Liberty Times",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5552001",
+      "published_date": "2026-08-25T10:53:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Alibaba raises US$10 billion in record Hong Kong share sale",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/25/2003863065",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "總統小英、威廉變身「迷因香菇」 陳水扁傲嬌點評笑瘋150萬人",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5551305",
+      "published_date": "2026-08-25T10:51:53Z",
       "category": "Local Events"
     },
     {
-      "title": "Agile automaton",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/25/2003863067",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "嘉義以南「快長香菇」了 又迎沙德爾颱風 賴清德：嚴陣以待",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5551971",
+      "published_date": "2026-08-25T10:50:37Z",
       "category": "Local Events"
     },
     {
-      "title": "EDITORIAL: AI boom shines light on inequality gap",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/08/25/2003863068",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "酸賴清德普發萬元「撒幣救選情」！中國官媒留言區大翻車急關評",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5551920",
+      "published_date": "2026-08-25T10:49:24Z",
       "category": "Local Events"
     },
     {
-      "title": "Disaster resilience begins in the community",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/08/25/2003863069",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "廣達集團切入CPO 轉投資Vuzix光互連樣品出貨",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5552013",
+      "published_date": "2026-08-25T10:47:53Z",
       "category": "Local Events"
     },
     {
-      "title": "Reinvest AI dividends in Taiwan",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/08/25/2003863070",
-      "published_date": "2026-08-25T00:00:00Z",
+      "title": "巨虹看好醫材通路價值  砸45億擬收購百略82％ 股份",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5551995",
+      "published_date": "2026-08-25T10:44:12Z",
       "category": "Local Events"
     }
   ]
