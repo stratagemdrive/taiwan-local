@@ -1,7 +1,119 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-08-31T01:09:38Z",
+  "last_updated": "2026-08-31T17:47:35Z",
   "stories": [
+    {
+      "title": "Foreign minister presents e-buses while in Palau",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863479",
+      "published_date": "2026-09-01T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EDITORIAL: Beijing’s corporate tax crackdown",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/01/2003863457",
+      "published_date": "2026-09-01T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bellingham, Mbappe extend Real Madrid’s perfect run",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/sport/archives/2026/09/01/2003863476",
+      "published_date": "2026-09-01T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least five leaders skip Pacific Islands summit",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/09/01/2003863494",
+      "published_date": "2026-09-01T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shocking bomb! \"Princess Cruises\" announced its withdrawal from the Taiwan market",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5558691",
+      "published_date": "2026-08-31T16:44:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "September's \"Ju Wealth King\" is unveiled! 5 zodiac auspicious stars enter your life, ushering in real wealth",
+      "source": "Liberty Times",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5558676",
+      "published_date": "2026-08-31T16:33:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Football\" Shocking! Messi officially retires from Argentina national team, this year's World Cup becomes the last dance",
+      "source": "Liberty Times",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5558687",
+      "published_date": "2026-08-31T16:01:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Japan's three major opposition parties give up on merger, and break up after 7 months of establishment of the Center for Reform Coalition",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558651",
+      "published_date": "2026-08-31T15:21:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The 2nd Xi Jinping Summit in 2026: Xi Jinping said that China-Russia relations will be stronger",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558668",
+      "published_date": "2026-08-31T14:59:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SCO 25th Anniversary Summit debuts, leaders of China, Russia and Iran gather in Kyrgyzstan",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558570",
+      "published_date": "2026-08-31T14:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Estonia's intelligence chief reveals Putin is in a dilemma: revolution may break out overnight",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558638",
+      "published_date": "2026-08-31T14:18:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump still hints at running for a third term, but starts talking about life after leaving the White House",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558243",
+      "published_date": "2026-08-31T13:50:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Expectations for the Fed to raise interest rates have increased, and the New Taiwan dollar has ended its three consecutive red streaks and rebounded strongly by more than 6 cents in August.",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558472",
+      "published_date": "2026-08-31T10:32:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "1.26 million yuan was collected in one night! Ordinary mother makes a lot of money by \"working as a side job\" at home, the tricks behind it are exposed",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558394",
+      "published_date": "2026-08-31T10:02:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Look silly! \"One\" dormitory of Guangxi High School in China was crowded with 78 students at the same time",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558244",
+      "published_date": "2026-08-31T08:39:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"Terrier Air\" is here! South Korea’s “low-cost airline” announced a name change and officially launched sailings on 9/10",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5557786",
+      "published_date": "2026-08-31T03:54:54Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Powering Pacific ties",
       "source": "Taipei Times",
@@ -31,116 +143,137 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Presidential Building to host Kids Big Fun event",
+      "title": "Ministry maximizing defense spending",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/30/2003863378",
-      "published_date": "2026-08-30T00:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/01/2003863467",
+      "published_date": "2026-09-01T00:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Paraguay rally sees tough start",
+      "title": "Indonesia, US and allies launch annual exercises",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/sport/archives/2026/08/30/2003863365",
-      "published_date": "2026-08-30T00:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/01/2003863471",
+      "published_date": "2026-09-01T00:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Floods kill 682 in Nepal; foreign minister warns of growing threat from climate change",
+      "title": "Is China the culprit of the catastrophic disaster on the China-Nepal border? The famous wolf warrior was shocked by \"Indian Baojie\" and broke his defense!",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5556800",
-      "published_date": "2026-08-29T17:21:03Z",
-      "category": "Diplomacy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558574",
+      "published_date": "2026-08-31T16:43:45Z",
+      "category": "Military"
     },
     {
-      "title": "沙拉也在內！專家曝Costco「這4樣」商品最好別買 想省錢恐變浪費錢",
+      "title": "Deter invasion! U.S.-Indonesia \"Super Garuda Shield\" military exercise debuts with nearly 5,000 people from 15 countries participating",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5556665",
-      "published_date": "2026-08-29T11:55:38Z",
-      "category": "Diplomacy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558689",
+      "published_date": "2026-08-31T16:16:07Z",
+      "category": "Military"
     },
     {
-      "title": "Jiangxi governor sacked, Chinese media: \"Involved\" in rare earth business",
+      "title": "Man suspected of planning Swiss dance party shooting arrested, murderer still at large",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5556498",
-      "published_date": "2026-08-29T08:23:38Z",
-      "category": "Diplomacy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558663",
+      "published_date": "2026-08-31T15:35:16Z",
+      "category": "Military"
     },
     {
-      "title": "訪帛琉與友盟出席榮邦特展 林佳龍盼攜手打造永續藍色太平洋",
+      "title": "Israel and Greece sign arms sales agreement to build \"Achilles Shield\" air defense system",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5556445",
-      "published_date": "2026-08-29T07:26:06Z",
-      "category": "Diplomacy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558575",
+      "published_date": "2026-08-31T15:16:12Z",
+      "category": "Military"
     },
     {
-      "title": "There is no celebration for the third reading of the blue and white version of the Drone Regulations. He Xinchun is worried about the transfer of production in Taichung. Jiang Qichen calls for more equitable distribution.",
+      "title": "The 20th National Congress of the Communist Party of China was ordered to forcibly take away Hu Jintao. Kong Shaoxun, a close confidant of Xi Jinping, will be promoted to governor of Gansu Province.",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5556358",
-      "published_date": "2026-08-29T06:53:47Z",
-      "category": "Diplomacy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558649",
+      "published_date": "2026-08-31T14:39:49Z",
+      "category": "Military"
     },
     {
-      "title": "Sun Yuchen took Jing Tian on a private plane trip. He was shocked that the plane originally belonged to Xu Jiayin.",
+      "title": "Threatening Iran's oil lifeline, Trump releases AI-generated video \"blowing Kharg Island to pieces\"",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5556377",
-      "published_date": "2026-08-29T06:39:18Z",
-      "category": "Diplomacy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558633",
+      "published_date": "2026-08-31T14:32:37Z",
+      "category": "Military"
     },
     {
-      "title": "Free News》Ukrainian \"Storm Shadow\" hits Russian top officials hard! Russian oil plant is bombed again, people sigh: they will run out of oil again",
+      "title": "U.S. and Iran exchange fire again, Trump: U.S. will fight back",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5556234",
-      "published_date": "2026-08-29T03:20:53Z",
-      "category": "Diplomacy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558634",
+      "published_date": "2026-08-31T13:59:00Z",
+      "category": "Military"
     },
     {
-      "title": "More than 3,000 people are missing and dead. Nepal cannot resist international pressure and opens four countries for rescue",
+      "title": "The United States and Iran are fighting again. Iranian President: Continuing the war with the United States is not in our country’s interests.",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5556131",
-      "published_date": "2026-08-29T01:56:44Z",
-      "category": "Diplomacy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558605",
+      "published_date": "2026-08-31T13:58:08Z",
+      "category": "Military"
     },
     {
-      "title": "Taiwan is a reliable partner! US State Department: Supports participation in Pacific Islands Forum",
+      "title": "網友Threads發文搭車疑遭司機倒車擦撞 叫車平台管理機制再掀關注",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5556058",
-      "published_date": "2026-08-29T00:05:00Z",
-      "category": "Diplomacy"
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558539",
+      "published_date": "2026-08-31T11:37:00Z",
+      "category": "Military"
     },
     {
-      "title": "International experts affirm Taiwan’s anti-corruption efforts, offer recommendations",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/29/2003863326",
-      "published_date": "2026-08-29T00:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A 10-year-old girl was molested, Ye Yuan said, \"She was not sexually assaulted.\" Zhou Xuanhong: Where is the moral bottom line?",
+      "title": "Lengyan’s millimeter-wave antenna module seizes business opportunities in low-orbit satellites and will be listed on the innovation board in late September",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5556049",
-      "published_date": "2026-08-28T23:22:31Z",
-      "category": "Diplomacy"
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558492",
+      "published_date": "2026-08-31T10:52:08Z",
+      "category": "Military"
     },
     {
-      "title": "Trump: Putin will not attack NATO",
+      "title": "News 360》Iran is out of control and attacking neighboring countries! The US military will take heavy measures to test the blood transfusion belts between China and Russia",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/paper/1768532",
-      "published_date": "2026-08-28T21:30:00Z",
-      "category": "Diplomacy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558480",
+      "published_date": "2026-08-31T10:39:25Z",
+      "category": "Military"
     },
     {
-      "title": "《TAIPEI TIMES》 International experts affirm Taiwan’s anti-corruption efforts, offer recommendations",
+      "title": "Kai Fund’s profits continue to hit highs. General manager: Dividends next year will “not fall behind” and a yield rate of 5% can be expected.",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5555979",
-      "published_date": "2026-08-28T19:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558459",
+      "published_date": "2026-08-31T10:28:49Z",
+      "category": "Military"
     },
     {
-      "title": "金管會與印度金融服務中心管理局 簽署「金融科技合作協議」",
+      "title": "HTC and the Museum of Science and Education jointly launch \"The Little Prince: Fantasy Star Journey\"",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5555883",
-      "published_date": "2026-08-28T12:04:05Z",
-      "category": "Diplomacy"
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558420",
+      "published_date": "2026-08-31T10:01:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump criticizes South Korea again for being unwilling to support U.S. war against Iran: Trump will \"keep this in mind\"",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558376",
+      "published_date": "2026-08-31T09:51:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "The US military just launched an air strike! Iranian ballistic missiles bomb Jordanian base, drone swarms attack U.S. forces in the UAE again",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5557986",
+      "published_date": "2026-08-31T05:10:47Z",
+      "category": "Military"
+    },
+    {
+      "title": "Maduro’s PO photo from prison! The hands are smaller than those of YA and the body is thinner",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5557917",
+      "published_date": "2026-08-31T04:55:51Z",
+      "category": "Military"
+    },
+    {
+      "title": "White House pretext operator involved in insider trading, $5.46 million fined for bets placed on Trump's speech",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5557881",
+      "published_date": "2026-08-31T04:16:55Z",
+      "category": "Military"
     },
     {
       "title": "US testing Harpoon missiles Taiwan purchased",
@@ -150,137 +283,46 @@
       "category": "Military"
     },
     {
-      "title": "N Korea defense minister dismissed: state media",
+      "title": "Natural gas prices to consumers, industry to remain unchanged",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/31/2003863408",
-      "published_date": "2026-08-31T00:00:00Z",
-      "category": "Military"
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863491",
+      "published_date": "2026-09-01T00:00:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Military updates arsenal with automated systems",
+      "title": "Indigenous energy justice a need",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/31/2003863417",
-      "published_date": "2026-08-31T00:00:00Z",
-      "category": "Military"
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/01/2003863458",
+      "published_date": "2026-09-01T00:00:00Z",
+      "category": "Energy"
     },
     {
-      "title": "‘Second Theatre Command’  laptop display sparks false alarm",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/31/2003863421",
-      "published_date": "2026-08-31T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "KMT planning campaign for referendum",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/31/2003863423",
-      "published_date": "2026-08-31T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Richard D. Fisher, Jr. On Taiwan: The Coming Waves of CCP-PLA Military Deluges",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/08/31/2003863398",
-      "published_date": "2026-08-31T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Where is your happy place? Maybe it’s Slovenia",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/08/31/2003863401",
-      "published_date": "2026-08-31T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "荷莫茲海峽襲伊朗火箭發射器　美軍一個月以來首度動武",
+      "title": "Floods in Nepal increase to 939 dead and 3,925 missing; more than 2,500 buildings destroyed",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5557567",
-      "published_date": "2026-08-30T21:21:03Z",
-      "category": "Military"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558697",
+      "published_date": "2026-08-31T17:06:03Z",
+      "category": "Energy"
     },
     {
-      "title": "美媒：新疆試飛基地大規模擴建  可能為轟20測試鋪路",
+      "title": "Ferry capsizes in North Cyprus, mother cries as daughter slips from her hands",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5557379",
-      "published_date": "2026-08-30T13:59:12Z",
-      "category": "Military"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558612",
+      "published_date": "2026-08-31T15:00:05Z",
+      "category": "Energy"
     },
     {
-      "title": "\"Otter Mother\" plays bubbles with Sanchong parents and children. Su Qiaohui promises to build a city with a 95 cm perspective",
+      "title": "Zhengwei Yongwei participated in Senwei's public acquisition case, and the market questioned the cutting of 17 billion liabilities",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5557463",
-      "published_date": "2026-08-30T12:59:59Z",
-      "category": "Military"
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558491",
+      "published_date": "2026-08-31T10:50:45Z",
+      "category": "Energy"
     },
     {
-      "title": "中國貿易順差飆升！美媒：全球需新版廣場協議 施壓人民幣升值",
+      "title": "China National Petroleum Corporation: Natural gas prices for people's livelihood and industrial users increased in September, while electricity users increased their prices by 5.83%.",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5557443",
-      "published_date": "2026-08-30T12:38:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "Niger mutiny! Russia's \"Afrika Korps\" steps in to quell chaos, dozens of soldiers killed or arrested",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5557302",
-      "published_date": "2026-08-30T09:38:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "自由開講》換將頻頻步步錯 越想稱霸越亡軍",
-      "source": "Liberty Times",
-      "url": "https://talk.ltn.com.tw/article/breakingnews/5542029",
-      "published_date": "2026-08-30T01:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "A strange platform for buying and selling private videos and remittances. The police reveal the three legal red lines that \"Fangxunke\" trampled on.",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5556840",
-      "published_date": "2026-08-30T00:50:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "FEATURE:Penghu troops prepare for strike",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/30/2003863370",
-      "published_date": "2026-08-30T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Cyclist plans to ride five famous races back-to-back",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/sport/archives/2026/08/30/2003863367",
-      "published_date": "2026-08-30T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "流血流汗不靠爸   486先生讓自己成為一座山",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5556820",
-      "published_date": "2026-08-29T23:56:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Whether Iceland will restart negotiations to join the EU, the referendum results are expected to be announced on the 30th",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5556818",
-      "published_date": "2026-08-29T23:11:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nigeria's military government says it has quelled the rebellion; Russian troops are rumored to be helping to recapture the capital's air base",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5556809",
-      "published_date": "2026-08-29T21:30:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "未事先協商 駐日美軍爆參與伊戰",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/paper/1768598",
-      "published_date": "2026-08-29T21:30:00Z",
-      "category": "Military"
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558452",
+      "published_date": "2026-08-31T10:15:16Z",
+      "category": "Energy"
     },
     {
       "title": "Coalition recycles fishing nets to make glasses",
@@ -381,325 +423,283 @@
       "category": "Energy"
     },
     {
-      "title": "Government mulls raising electricity demand forecast",
+      "title": "Taiwan-Singapore trade going strong, envoy says",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/28/2003863249",
-      "published_date": "2026-08-28T00:00:00Z",
-      "category": "Energy"
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863478",
+      "published_date": "2026-09-01T00:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Climate change is exacerbating melting ice in the Himalayas, and experts warn that \"complex chain disasters\" will become more frequent",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5554891",
-      "published_date": "2026-08-27T15:45:38Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Many car owners don’t know? Toyota Disaster Prevention Demonstrates \"Hidden Functions\" A few days ago, Kumamoto earthquake relief has been launched",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5554647",
-      "published_date": "2026-08-27T11:51:05Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The public takeover is pending! Senwei receives another default notice, the 21.4 billion loan case may be paid off in advance",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5554676",
-      "published_date": "2026-08-27T10:54:40Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Taipower won 4 awards and China National Petroleum Corporation won 5 awards. The two state-owned enterprises were recognized for their sustainable actions",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5554608",
-      "published_date": "2026-08-27T10:11:36Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Formosa Plastics’ new smart layout microalgae SAF raw material passes ISCC EU sustainability verification",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5553892",
-      "published_date": "2026-08-27T02:53:34Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ministry relaxes investment subsidy regulations",
+      "title": "Gudeng expecting revenue growth",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/31/2003863419",
-      "published_date": "2026-08-31T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/01/2003863450",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Economy"
     },
     {
-      "title": "TSMC Q2 employee bonuses rise more than 50%",
+      "title": "Integrated systems to lead AI boom: TSMC executive",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/31/2003863392",
-      "published_date": "2026-08-31T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/01/2003863452",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Economy"
     },
     {
-      "title": "Day traders abandoning S Korean leveraged ETFs",
+      "title": "Global chip market to exceed US$2tn by 2030: SEMI",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/31/2003863393",
-      "published_date": "2026-08-31T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/01/2003863453",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Economy"
     },
     {
-      "title": "Fed chair signals rate hikes might be needed with US inflation still elevated",
+      "title": "Silicon photonics expected to dominate AI growth, TSMC vice president says",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/31/2003863395",
-      "published_date": "2026-08-31T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/01/2003863454",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Economy"
     },
     {
-      "title": "中英對照讀新聞》US intervened to contain Asia currency risks, Bessent says 貝森特表示，美國進行干預是為了遏制亞洲貨幣風險",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/paper/1768730",
-      "published_date": "2026-08-30T21:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "尼泊爾洪災逾700死 6歲女童遭埋多日獲救",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5557380",
-      "published_date": "2026-08-30T11:25:10Z",
-      "category": "Economy"
-    },
-    {
-      "title": "通膨飆66%出口跌35% 伊朗經濟陷困",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/paper/1768599",
-      "published_date": "2026-08-29T21:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Accused of laundering money for Iran! The United States takes action against China again, sanctioning Hong Kong company Kameng Company",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5556747",
-      "published_date": "2026-08-29T14:01:02Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The U.S.'s \"economic suffocation\" measures show its strength, and Iran's president admits that foreign trade has shrunk by 35%",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5556677",
-      "published_date": "2026-08-29T11:58:19Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Warsaw made a 180-degree turn and became an inflation hawk, and the chances of raising interest rates in September soared overnight.",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5556654",
-      "published_date": "2026-08-29T11:10:34Z",
-      "category": "Economy"
-    },
-    {
-      "title": "It was quiet for a few days after causing controversy! Weng Xiaoling suddenly went crazy and posted a message, threatening to cut next year’s budget again",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5556531",
-      "published_date": "2026-08-29T09:12:17Z",
-      "category": "Economy"
-    },
-    {
-      "title": "華為最新晶片被看光光！研調拆解揭一大硬傷 真相太殘酷",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5556444",
-      "published_date": "2026-08-29T07:43:51Z",
-      "category": "Economy"
-    },
-    {
-      "title": "BFT director remarks on Taiwanese chip industry",
+      "title": "Ministry approves Lam Research’s NT$9.8 billion Taiwan investment",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/29/2003863329",
-      "published_date": "2026-08-29T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/01/2003863455",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Economy"
     },
     {
-      "title": "Unmanned vehicle regulations passed, but individual stocks fell sharply. Xie Jinhe: There are people who live in this land and stab themselves with knives.",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5556048",
-      "published_date": "2026-08-28T23:48:20Z",
+      "title": "The (mostly fictional) cockroaches in Japanese markets",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/01/2003863464",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Economy"
     },
     {
-      "title": "錢坑！烏俄戰爭久拖   IMF：烏克蘭明年預算赤字達GDP17.8％",
+      "title": "Kaohsiung’s concert economy has been upgraded again. Get a 50 yuan digital support coupon with your Gaoliu Haiyin Pavilion concert ticket",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5555961",
-      "published_date": "2026-08-28T13:54:50Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5558693",
+      "published_date": "2026-08-31T16:32:18Z",
       "category": "Economy"
     },
     {
-      "title": "Chip stocks can only stand aside! The \"this industry\" index surged 43% in August, rewriting the record in one go",
+      "title": "The average price is 628,000! Housing prices in Xinzhuang sub-city have rebounded from highs. Is it better to pick up treasures or pick up knives?",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5555163",
-      "published_date": "2026-08-28T06:01:14Z",
+      "url": "https://estate.ltn.com.tw/article/28747",
+      "published_date": "2026-08-31T15:49:00Z",
       "category": "Economy"
     },
     {
-      "title": "收復4萬6！聯電等36家紅燈高掛 指數收漲356點",
+      "title": "Junhao's orders received in the second half of the year \"will have breakthrough growth\" and will be even more prosperous next year",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5555015",
-      "published_date": "2026-08-28T05:52:36Z",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558582",
+      "published_date": "2026-08-31T12:30:57Z",
       "category": "Economy"
     },
     {
-      "title": "After Yan Huixin’s bullying case, the Economic and Trade Office of the Executive Yuan will be transformed into a permanent task force starting today",
+      "title": "Bessent says Abenomics is over, the yen weakens below 160 and the chances of raising interest rates increase",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5555356",
-      "published_date": "2026-08-28T05:17:44Z",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558569",
+      "published_date": "2026-08-31T12:30:15Z",
       "category": "Economy"
     },
     {
-      "title": "黃金大行情來了！專家喊年底衝5000美元 更驚人目標價跟著曝光",
+      "title": "Zengliehuida headquarters is registered! The land rights of Songnan Camp Area in Bei City will be tendered, covering an area of ​​3.3 hectares.",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5554974",
-      "published_date": "2026-08-28T03:29:59Z",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558545",
+      "published_date": "2026-08-31T11:40:21Z",
       "category": "Economy"
     },
     {
-      "title": "Taiwan-India Industrial Link Summit Forum signs 6 more MOUs, Ministry of Economic Affairs: Can drive more than 1 billion business opportunities",
+      "title": "Humble House Hotel: China National Travel Service subsidy will go on the road in September, adding market momentum",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5555206",
-      "published_date": "2026-08-28T03:28:02Z",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558516",
+      "published_date": "2026-08-31T11:34:37Z",
       "category": "Economy"
     },
     {
-      "title": "4萬6又失守！晶圓雙雄領跌 指數跌逾600點",
+      "title": "海地、貝里斯駐WTO常代訪台 將拜會司法院、財政部",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5557655",
-      "published_date": "2026-08-31T01:05:59Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5558371",
+      "published_date": "2026-08-31T11:01:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Hekujin’s profits hit a new high in the first seven months and next year’s dividend distribution rate will remain at 80%, mainly in cash.",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558499",
+      "published_date": "2026-08-31T10:53:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Century* and other 3 stocks will be put into disposal starting from 9/1, and 43 stocks including Nanya will be listed as note stocks.",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558474",
+      "published_date": "2026-08-31T10:35:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Public opinion in Japan and South Korea is waxing and waning! Sanae's approval rate in the high market returned to 60%, and Lee Jae-myung fell below 40% for the first time",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5558433",
+      "published_date": "2026-08-31T10:26:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Taiwan’s advantages don’t just focus on TSMC! Foreign media exposes technology island’s “hidden champion” company",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558251",
+      "published_date": "2026-08-31T09:09:52Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Foreign capital sold for 14.3 billion yuan! Yageo* only ranked second in \"this category\" and suffered the biggest loss as 16,600 copies were cut off",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558372",
+      "published_date": "2026-08-31T09:08:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Power Semiconductor Manufacturing went low and bucked the trend! The great hero is exposed and 680,000 shareholders are excited",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5558351",
+      "published_date": "2026-08-31T08:56:28Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Taiwan aims to train 500,000 AI pros by 2040",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/01/2003863468",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "MLB》慘遭洋基灌16分！ 紅襪球星不滿美技守備「被沒收」：改變整場比賽",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5557584",
-      "published_date": "2026-08-31T01:05:26Z",
+      "title": "Nvidia to invest US$3.5 billion in MediaTek",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/01/2003863469",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "吹海風聽音樂 海線潮旅行9/5高雄梓官登場",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5557637",
-      "published_date": "2026-08-31T01:05:03Z",
+      "title": "Iran president says more war not in Tehran’s interest",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/01/2003863470",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "台東開學首日波麗士護童上學 發放「防身口哨」",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5557646",
-      "published_date": "2026-08-31T01:03:55Z",
+      "title": "Taiwan, US to boost workforce efforts",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863477",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "基隆七堵民宅傳火警 平房全面燃燒 屋主外出上班逃死劫",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5557638",
-      "published_date": "2026-08-31T01:02:02Z",
+      "title": "Governor of Japan’s Kumamoto thanks Taiwan for support",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863480",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "免搭船跑本島！屏東監理站前進小琉球驗車 10/18到期皆可驗",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5557635",
-      "published_date": "2026-08-31T01:01:21Z",
+      "title": "Taiwan codeveloped satellite wins mission award",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863481",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "USB 3.0 裝置太慢連接電腦竟會降速？日本業者揭開背後原理",
-      "source": "Liberty Times",
-      "url": "https://3c.ltn.com.tw/news/67401",
-      "published_date": "2026-08-31T01:00:00Z",
+      "title": "Academic calls for protection amid coral bleaching",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863482",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "自由開講》陳幸妤、趙建銘約定違約金「一億」 可求償嗎？",
-      "source": "Liberty Times",
-      "url": "https://talk.ltn.com.tw/article/breakingnews/5556601",
-      "published_date": "2026-08-31T01:00:00Z",
+      "title": "Official urges singer to be careful with China",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863483",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "竹縣號召加入安置托育員行列  辦感恩會肯定奉獻",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5557630",
-      "published_date": "2026-08-31T00:58:03Z",
+      "title": "Ex-health ministry worker indicted in espionage case",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863484",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "美軍突襲伊朗拉拉克島 油價跳漲逾2％",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5557605",
-      "published_date": "2026-08-31T00:57:52Z",
+      "title": "Health ministry expands health subsidy categories",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863485",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "勇揭許傑輝性騷 女星韓忠羽淡出娛樂圈近況曝光",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5557618",
-      "published_date": "2026-08-31T00:57:47Z",
+      "title": "Ministry escalates anti-fraud efforts",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863486",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "30萬顆感冒藥丸提煉出逾7公斤毒品原料 2製毒師被判刑",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5557629",
-      "published_date": "2026-08-31T00:57:40Z",
+      "title": "Smart blood tube prep tech easing nurses’ workload",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863487",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "鎖死伊朗金脈！貝森特下最後通牒「每週」祭二級制裁 首波開刀銀行界",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5557601",
-      "published_date": "2026-08-31T00:54:06Z",
+      "title": "Cultural association brings Taiwan to Poland",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863488",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "CCWC國際龍舟賽開幕踩街 花蓮市區今晚交通管制",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5557628",
-      "published_date": "2026-08-31T00:52:46Z",
+      "title": "500 millionth Taipei YouBike renter to get NT$20,000 prize",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863489",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "星媒專訪談選情 鄭麗文：嘉義市、彰化縣「有些問題」",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5557615",
-      "published_date": "2026-08-31T00:48:31Z",
+      "title": "Tropical Storm Saudel to make a comeback, with little impact on Taiwan",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863490",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "驚！彰化市一早就傳出火燒車 受災戶竟是「他們」",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5557623",
-      "published_date": "2026-08-31T00:45:57Z",
+      "title": "Back to school",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863492",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "歡度六十而耳順    陳鴻感性發聲：愛如此美好",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5557590",
-      "published_date": "2026-08-31T00:42:52Z",
+      "title": "Backlog of orders growing, Value Valves Co reports",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/01/2003863451",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "選舉登記起跑 無黨籍澎湖縣長參選人許智富下辯論戰帖",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5557614",
-      "published_date": "2026-08-31T00:36:08Z",
+      "title": "Quality time",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/01/2003863456",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "伊朗反擊！ 對駐約旦美軍發射彈道飛彈",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5557599",
-      "published_date": "2026-08-31T00:34:38Z",
+      "title": "Religion is shown in how one acts",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/01/2003863459",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "亞股狂瀉！韓股跌逾3.5％ 日經重挫近1600點",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5557620",
-      "published_date": "2026-08-31T00:32:33Z",
+      "title": "Opposition drone bill is ineffective",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/01/2003863460",
+      "published_date": "2026-09-01T00:00:00Z",
       "category": "Local Events"
     }
   ]
