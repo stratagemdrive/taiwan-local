@@ -1,7 +1,49 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-09-12T00:58:55Z",
+  "last_updated": "2026-09-12T13:48:49Z",
   "stories": [
+    {
+      "title": "網球》中央大學國際青少年決戰 14歲徐可倢扳倒頭號種子封后",
+      "source": "Liberty Times",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5572033",
+      "published_date": "2026-09-12T13:38:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "開戰以來首度王見王？ 澤倫斯基鬆口願赴美與普廷直球對決",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5571793",
+      "published_date": "2026-09-12T09:20:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "偷用美AI致解放軍資料被看光！傳月之暗面創辦人及15主管全被抓了",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5571609",
+      "published_date": "2026-09-12T07:07:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "買下別人不要的迷你倉！她靠「尋寶副業」變全職 親揭驚人收入",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5571383",
+      "published_date": "2026-09-12T05:42:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "她靠超狂副業賺翻超越正職 「1個月進帳47萬」親曝成功心路",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5571487",
+      "published_date": "2026-09-12T05:13:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "North Korea suddenly launched a missile into the Sea of ​​Japan in the early morning. The US Pacific Command spoke out!",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5571271",
+      "published_date": "2026-09-12T00:52:25Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ships dare not go through the Strait of Hormuz! International oil prices have gone up like crazy this week, and U.S. diesel has hit a record high",
       "source": "Liberty Times",
@@ -101,46 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "副署權爭議、兩岸定位 蘇永欽：憲法寫得很清楚",
+      "title": "伊朗飛彈炸死3美軍！美方查出中國高解析衛星照與攻擊有關",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/paper/1770295",
-      "published_date": "2026-09-11T21:30:00Z",
-      "category": "Diplomacy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5571412",
+      "published_date": "2026-09-12T03:32:36Z",
+      "category": "Military"
     },
     {
-      "title": "突破中共封鎖 蕭美琴訪問義大利 歐洲議會副議長宣布 現場掌聲如雷",
+      "title": "The Houthis seized 3 islands in a row and entered the throat of the Red Sea! Saudi Arabia asks for help, Trump refuses to send troops",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/paper/1770288",
-      "published_date": "2026-09-11T21:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Behind the scenes of soaring stocks》August revenue nearly doubled year-on-year, AMAX-KY rose 1.3 times in August",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/paper/1770310",
-      "published_date": "2026-09-11T21:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Yemeni rebels occupy Red Sea throat, control Bab el-Mandeb Strait",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/paper/1770329",
-      "published_date": "2026-09-11T21:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The rising trend of memory prices will not stop. Team Group: This time is really different.",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5571012",
-      "published_date": "2026-09-11T11:34:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qingyun was involved in illegal export of high-end servers and was heavily fined NT$1 million for cabinet purchases",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5570958",
-      "published_date": "2026-09-11T10:51:09Z",
-      "category": "Diplomacy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5571374",
+      "published_date": "2026-09-12T02:35:32Z",
+      "category": "Military"
     },
     {
       "title": "North Korea \"launched multiple missiles\" in succession, and the U.S. military issued an urgent statement: It did not pose an immediate threat",
@@ -206,6 +220,13 @@
       "category": "Military"
     },
     {
+      "title": "It’s been shrinking for 4.5 billion years! The \"disappearing wrinkles\" of Mercury are underestimated by 30%",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5571178",
+      "published_date": "2026-09-11T23:00:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Family Time Machine 4》The size of each household becomes smaller, and the size of the individual square footage becomes larger.",
       "source": "Liberty Times",
       "url": "https://ec.ltn.com.tw/article/breakingnews/5570227",
@@ -262,25 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "中國濫用AI 模擬壓制台灣",
+      "title": "Chinese Internet celebrity \"Tietou\" peed on graffiti at the Yasukuni Shrine and was sentenced to 8 years in Hangzhou for extortion",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/paper/1770328",
-      "published_date": "2026-09-11T21:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "討論荷姆茲海峽 伊朗：9/14在阿曼與波灣國家會談",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5571189",
-      "published_date": "2026-09-11T15:55:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "習近平會氣瘋！偷用美國AI大翻車  解放軍敏感資料竟自動送上門",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5571062",
-      "published_date": "2026-09-11T12:17:55Z",
-      "category": "Military"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5571300",
+      "published_date": "2026-09-12T01:27:11Z",
+      "category": "Energy"
     },
     {
       "title": "Health Network》Eating the wrong avocado may turn it into a calorie bomb! Experts recommend hidden ways to eat to keep your sugar levels stable and satiated",
@@ -416,11 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "荷姆茲風險升溫！伊朗嗆美國「敢打就反擊」 國際油價飆近6週高點",
+      "title": "對付中國偷走晶片機密 「這國」祭出最高30年監禁",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5566365",
-      "published_date": "2026-09-07T23:33:00Z",
-      "category": "Energy"
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5571803",
+      "published_date": "2026-09-12T09:14:44Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Free Views》The TSMC of the world: Why does Trump need Intel?",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5569652",
+      "published_date": "2026-09-12T02:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "President promulgates income tax relief measure",
@@ -549,157 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "台股價漲量縮》8月證交稅540億 年增逾9成",
+      "title": "OL上班到一半內褲「沒了」！釣出一票苦主曝羞恥經驗",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/paper/1770301",
-      "published_date": "2026-09-11T21:30:00Z",
-      "category": "Economy"
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5571728",
+      "published_date": "2026-09-12T13:44:35Z",
+      "category": "Local Events"
     },
     {
-      "title": "Behind the scenes of soaring stocks》Three major product lines grew simultaneously, China and Sarawak saw a weekly increase of 13.7%",
+      "title": "阿北竟「性侵鯉魚」！自爆專門避開有刺的 強暴母狗入獄黑底曝",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/paper/1770311",
-      "published_date": "2026-09-11T21:30:00Z",
-      "category": "Economy"
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5571877",
+      "published_date": "2026-09-12T13:43:12Z",
+      "category": "Local Events"
     },
     {
-      "title": "Congratulations! Meet your husband on dating software. Sweet John’s hottest female singer is married",
+      "title": "U18亞青》球速、球威明顯下滑  劉任右坦言「對南韓先發全力在丟...」",
       "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5571205",
-      "published_date": "2026-09-12T00:50:00Z",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5572035",
+      "published_date": "2026-09-12T13:41:32Z",
       "category": "Local Events"
     },
     {
-      "title": "從「敬遠」到合約 張惇涵兩度舉大谷翔平談國防",
+      "title": "川習會前夕  川普拋「1前提」接受中企在美生產電動車",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571268",
-      "published_date": "2026-09-12T00:48:56Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5572031",
+      "published_date": "2026-09-12T13:40:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Chiayi County youths return to their hometowns to create mountain city aesthetics, and coffee and teahouses connect new tourism routes",
+      "title": "百工百業挺李四川 小市民談「我認識的李四川」句句打動人心",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5571258",
-      "published_date": "2026-09-12T00:43:59Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571959",
+      "published_date": "2026-09-12T13:34:46Z",
       "category": "Local Events"
     },
     {
-      "title": "徐立信讓蔣萬安、沈伯洋「隔空辯論」！沈榮欽：竟分不清誰才當了4年市長",
+      "title": "蘋果「完勝」 三星！iPhone Duo做對了5件事 三星第8代至今仍未做到",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571255",
-      "published_date": "2026-09-12T00:41:23Z",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5572029",
+      "published_date": "2026-09-12T13:33:28Z",
       "category": "Local Events"
     },
     {
-      "title": "公投增案投開票所擴編 新竹縣急徵9594名選務人員",
+      "title": "週日陽光露臉！高溫飆35度  日夜溫差大",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571280",
-      "published_date": "2026-09-12T00:35:58Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5572027",
+      "published_date": "2026-09-12T13:32:28Z",
       "category": "Local Events"
     },
     {
-      "title": "\"East! Take Me Away\" will be sung for two nights in a row, with To Dewei having the finale tomorrow",
+      "title": "同樣花大錢憑什麼他們住新大樓？全台「屋齡最年輕」縣市大公開",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5571253",
-      "published_date": "2026-09-12T00:32:25Z",
+      "url": "https://estate.ltn.com.tw/article/28830",
+      "published_date": "2026-09-12T13:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Fight back against husband’s affair! Diana’s “Revenge Dress” is sold at auction again for tens of millions after 29 years",
+      "title": "黑幫男勒斃女友棄屍陽明山  主動報失蹤營造「被分手」檢聲押",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5571260",
-      "published_date": "2026-09-12T00:32:03Z",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5572019",
+      "published_date": "2026-09-12T13:26:46Z",
       "category": "Local Events"
     },
     {
-      "title": "接受蕭美琴邀請將訪台  歐洲議會副議長霸氣嗆中國：無權決定",
+      "title": "中職》岳政華雙長打+開轟超火燙 竟是賽前臨時接先發任務",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571273",
-      "published_date": "2026-09-12T00:29:08Z",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5572023",
+      "published_date": "2026-09-12T13:21:36Z",
       "category": "Local Events"
     },
     {
-      "title": "親中女星陳竹音突返台參選民代 學者憂：可能幫助中共滲透台灣",
+      "title": "台灣入榜了！全球大眾運輸10強大公開",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571262",
-      "published_date": "2026-09-12T00:22:23Z",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5572020",
+      "published_date": "2026-09-12T13:16:01Z",
       "category": "Local Events"
     },
     {
-      "title": "\"Tutor\" 20th anniversary pop-up store opens in Taipei Sanchuang! A must-buy for Skylark Duckweed Guai and Six Paths Trident",
+      "title": "中職》最好跟最壞都在今年遇過 兄弟本土王牌鄭浩均吐心聲",
       "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5571200",
-      "published_date": "2026-09-12T00:20:00Z",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5572017",
+      "published_date": "2026-09-12T13:14:50Z",
       "category": "Local Events"
     },
     {
-      "title": "張俊傑棄保潛逃手法曝光！張育萌：變裝換車6次、還借手機製造斷點",
+      "title": "健康網》超癢！5旬男驚染「陰蝨」陰毛見活蟲四處爬",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571261",
-      "published_date": "2026-09-12T00:13:24Z",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5571804",
+      "published_date": "2026-09-12T13:13:00Z",
       "category": "Local Events"
     },
     {
-      "title": "蔣友柏一句「命決定能坐多大椅子」掀熱議！詹凌瑀：最該聽的人就坐在市府",
+      "title": "觀音藍埔市民活動中心動工 預計2028年啟用",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571248",
-      "published_date": "2026-09-12T00:06:38Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5571937",
+      "published_date": "2026-09-12T13:12:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Is there something wrong with Taiwan Affairs Office spokesperson Zhu Fenglian? Three weeks in hiding sparks speculation",
+      "title": "張志豪與蘇巧慧聯合南勢角後援會成立 陳世凱「全力支持興南夜市和交通建設」",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571264",
-      "published_date": "2026-09-12T00:06:31Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571973",
+      "published_date": "2026-09-12T13:11:08Z",
       "category": "Local Events"
     },
     {
-      "title": "沈伯洋上王偉忠節目點閱火速登頂！吳靜怡：蔣萬安還在怕什麼？",
+      "title": "台日手作交流台南登場 展現職人美學魅力",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571247",
-      "published_date": "2026-09-12T00:04:06Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5571924",
+      "published_date": "2026-09-12T13:10:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Fake doctor wears white robe to act great, man forges medical certificate and gets 10 months in jail",
+      "title": "桃機國泰航空休息室男實習生遭挾持  航警制伏持刀歹徒",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5571245",
-      "published_date": "2026-09-12T00:01:39Z",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5571914",
+      "published_date": "2026-09-12T13:08:01Z",
       "category": "Local Events"
     },
     {
-      "title": "突破中共封鎖 蕭美琴義大利演說：台灣有權利交朋友",
+      "title": "賴清德再批盧秀燕市政滿意度輸雲林、南投、苗栗 連問「台中不改變嗎？」",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571259",
-      "published_date": "2026-09-12T00:00:38Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5571989",
+      "published_date": "2026-09-12T13:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "VP Hsiao attends conference in Italy",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/12/2003864128",
-      "published_date": "2026-09-12T00:00:00Z",
+      "title": "911前「廣島級」恐攻警訊已浮現  美新解密文件揭連串警告",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5572006",
+      "published_date": "2026-09-12T13:04:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Gymnastics official fired over non-issuance of invites",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/12/2003864130",
-      "published_date": "2026-09-12T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HK court sentences trio over Tiananmen vigils",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/12/2003864131",
-      "published_date": "2026-09-12T00:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pomelo harvest affected by water shortages, typhoons",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/12/2003864141",
-      "published_date": "2026-09-12T00:00:00Z",
+      "title": "中職》兄弟被逆轉隔天火力輸出搶勝 平野對打線高評價",
+      "source": "Liberty Times",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5572013",
+      "published_date": "2026-09-12T13:04:20Z",
       "category": "Local Events"
     }
   ]
