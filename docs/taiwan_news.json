@@ -1,7 +1,42 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-09-14T00:50:35Z",
+  "last_updated": "2026-09-14T16:43:28Z",
   "stories": [
+    {
+      "title": "Japanese PM Sanae Takaichi’s ally wins election in Okinawa",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/15/2003864280",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump ‘not worried’ about Xi calling off summit",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/15/2003864281",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hsiao’s trip creates new diplomatic model: official",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864291",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Summit sheds light on global south",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/15/2003864270",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN votes to adopt new world map that shows Africa’s true scale 聯合國表決採用新世界地圖   真實呈現非洲面積",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/lang/archives/2026/09/15/2003864259",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "More delegations visit Taiwan: MOFA",
       "source": "Taipei Times",
@@ -108,39 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ships dare not go through the Strait of Hormuz! International oil prices have gone up like crazy this week, and U.S. diesel has hit a record high",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5571299",
-      "published_date": "2026-09-12T00:46:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "iPhone 18 Pro and iPhone Duo are just appetizers! More new Apple products will be launched in October",
-      "source": "Liberty Times",
-      "url": "https://3c.ltn.com.tw/news/67552",
-      "published_date": "2026-09-12T00:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "S.H.E breaks the ice for its 25th anniversary! However, fans gathered together to praise Huayan, \"Letting go is the best gift.\"",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5571219",
-      "published_date": "2026-09-12T00:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Japanese affordable groceries 3COINS opens today! Offer double discounts to grab customers, limited edition lucky bags are full of practical goodies",
-      "source": "Liberty Times",
-      "url": "https://istyle.ltn.com.tw/article/41010",
-      "published_date": "2026-09-12T00:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Free Talk》Retirement is not about staying away from technology: AI and smart families are actually not difficult",
-      "source": "Liberty Times",
-      "url": "https://talk.ltn.com.tw/article/breakingnews/5564289",
-      "published_date": "2026-09-12T00:30:00Z",
-      "category": "Diplomacy"
+      "title": "Taiwan urged to boost defense spending",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/15/2003864277",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Houthis take over strait vital to global shipping",
@@ -276,11 +283,25 @@
       "category": "Military"
     },
     {
-      "title": "Family Time Machine 1》5th and 6th grade students’ youth memories. The penetration rate of digital cameras has changed from 50% to 50%. This is the worst loss.",
+      "title": "Why CPC, Taipower need subsidies",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/15/2003864269",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "華航首度挑戰長程航線使用40％ SAF",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5570224",
-      "published_date": "2026-09-11T22:30:00Z",
-      "category": "Military"
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5573831",
+      "published_date": "2026-09-14T11:22:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "鑽石水再升級！中油洲際LNG冷能 可助AI伺服器散熱",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5573757",
+      "published_date": "2026-09-14T10:09:52Z",
+      "category": "Energy"
     },
     {
       "title": "CPC raises domestic gasoline and diesel prices",
@@ -402,25 +423,39 @@
       "category": "Energy"
     },
     {
-      "title": "Did Wei Pingzheng's daughter save Wang Huimei? The county magistrate's itinerary has been \"hidden\" for 5 consecutive days and will not be hidden tomorrow",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5568795",
-      "published_date": "2026-09-09T13:55:51Z",
-      "category": "Energy"
+      "title": "Foreign workers for hotel industry arrive",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864293",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Ma Ying-jeou's \"super chill\" appearance at the Tamsui River angered millions of netizens who opened 22K old accounts",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5568703",
-      "published_date": "2026-09-09T13:43:08Z",
-      "category": "Energy"
+      "title": "Slowdown calls deflate AI stocks",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/15/2003864261",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Restore the Zhonghuo promise! Taipower: Never promised to dismantle 6 coal-fired units",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5568624",
-      "published_date": "2026-09-09T10:26:35Z",
-      "category": "Energy"
+      "title": "Cathay raises GDP growth forecast to 11.6%",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/15/2003864262",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Average wages climbing, but median wages low",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/15/2003864265",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "BIS says global market AI momentum showing signs of vulnerability",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/15/2003864266",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Central bank pressured to raise rates",
@@ -528,178 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "U.S. stocks close\" 4 consecutive black stops! Dow Jones rebounds 509 points, TSMC ADR rises more than 1%",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5571227",
-      "published_date": "2026-09-11T21:58:32Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Interest rate hike expectations have been reflected in advance, U.S. stocks rebounded and closed higher",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5571224",
-      "published_date": "2026-09-11T21:45:03Z",
-      "category": "Economy"
-    },
-    {
-      "title": "A man with a drug and fraud record was arrested after coordinating the escape of the \"Gao Finance Accountant\"",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/paper/1770322",
-      "published_date": "2026-09-11T21:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "You can now earn 3 million by winning the Hanchai Subscription Lottery! More than 300 billion funds were frozen on the first day",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/paper/1770307",
-      "published_date": "2026-09-11T21:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "U.S. inflation has not cooled down, fueling expectations for a Fed rate hike next week",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/paper/1770296",
-      "published_date": "2026-09-11T21:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "賣「喪屍菸彈」給未成年少女 毒販判刑10年6月",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5573019",
-      "published_date": "2026-09-14T00:39:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "美網》4歲被診斷患糖尿病！茲維列夫感謝母親支持突破障礙",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5573021",
-      "published_date": "2026-09-14T00:39:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "柯志恩到新興區喊讓中央公園成高雄驕傲 鄭孟洳糾錯：是在前金區",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5573015",
-      "published_date": "2026-09-14T00:38:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "20歲騎士逆向超車 87歲轉彎老翁遭撞骨折送醫",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5573017",
-      "published_date": "2026-09-14T00:37:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "秋天來了！今北部高溫降至30度 專家曝「3地」轉雨",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5573001",
-      "published_date": "2026-09-14T00:35:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elly超低腰牛仔褲秀蠻腰長腿！為自創品牌拍宣傳片轉身美背全曝光",
-      "source": "Liberty Times",
-      "url": "https://istyle.ltn.com.tw/article/41037",
-      "published_date": "2026-09-14T00:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "（專題）金鐘61入圍倒數5亮點！5台劇驚見雙女主「網內互打」搶后冠孫淑媚精算《拜六》轉戰女配",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5572926",
-      "published_date": "2026-09-14T00:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "自由開講》政治話術操弄與慷人民之慨",
-      "source": "Liberty Times",
-      "url": "https://talk.ltn.com.tw/article/breakingnews/5568330",
-      "published_date": "2026-09-14T00:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MiLB》解決道奇2大物！台灣強投鄧愷威完美後援 最快球速出爐",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5573003",
-      "published_date": "2026-09-14T00:28:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NBA球星小波特開房約砲 小A辣抖內幕：是他揪的",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5573002",
-      "published_date": "2026-09-14T00:27:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "健康網》愛戴帽子擔心恐禿頭！ 醫揭戴帽護頭皮4招",
-      "source": "Liberty Times",
-      "url": "https://health.ltn.com.tw/article/breakingnews/5572514",
-      "published_date": "2026-09-14T00:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MLB》真貨！岡本和真夯第32轟平日本記錄 159億重砲終於敲主場首轟",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5572994",
-      "published_date": "2026-09-14T00:15:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "德馨《戲說台灣》飾演九天玄女 冥冥中被欽點演出",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5572990",
-      "published_date": "2026-09-14T00:12:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "拍戲突失控遭傳「卡到陰」！曾智希破病暴瘦揭內幕 甜謝無照方姓密醫",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5572923",
-      "published_date": "2026-09-14T00:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anthropic CEO Amodei calls for AI slowdown",
+      "title": "VP praises Taiwan’s visibility, nations’ attention",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/14/2003864222",
-      "published_date": "2026-09-14T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/15/2003864278",
+      "published_date": "2026-09-15T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Houthis claim strike on southern Saudi base",
+      "title": "SkyGuardian drones bought from US tested, source says",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/14/2003864223",
-      "published_date": "2026-09-14T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/15/2003864279",
+      "published_date": "2026-09-15T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Chinese microdrama distorts history: academic",
+      "title": "MAC cautions travelers on China entry/exit rules",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/14/2003864231",
-      "published_date": "2026-09-14T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864288",
+      "published_date": "2026-09-15T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "CCP and China becoming one and the same: experts",
+      "title": "China sports activity participation restricted",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/14/2003864232",
-      "published_date": "2026-09-14T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864289",
+      "published_date": "2026-09-15T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "European official hails ‘role model’ Hsiao during visit",
+      "title": "Academia Historica head vows to fight historical distortion",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/14/2003864233",
-      "published_date": "2026-09-14T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864290",
+      "published_date": "2026-09-15T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Taiwan key for a China-free drone supply: source",
+      "title": "More EU-Taiwan cooperation needed on disaster preparedness: EU envoy",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/14/2003864234",
-      "published_date": "2026-09-14T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864292",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bears get closer to human settlements than thought, trackers show",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864294",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China Airlines ups SAF use in Amsterdam flight",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864295",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taipei health department probes high-school over suspected food poisoning",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864296",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taiwan trailing Malaysia, Philippines in English education",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864297",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health center head fined for giving out weight-loss drugs",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864298",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kuai Kuai workers protest land sale, demand compensation",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864299",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "’Mighty ducks’",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864300",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taiwanese Fan Night",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864301",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Automakers sign US$147m in deals at German show",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/15/2003864263",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flash memory prices expected to climb further soon",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/15/2003864264",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mollusk megadeath",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/15/2003864267",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL: Aging population policy overlooked",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/15/2003864268",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Surveillance cameras in schools not the answer",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/15/2003864271",
+      "published_date": "2026-09-15T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EDITORIAL CARTOON",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/15/2003864272",
+      "published_date": "2026-09-15T00:00:00Z",
       "category": "Local Events"
     }
   ]
