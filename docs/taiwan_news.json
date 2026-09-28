@@ -1,7 +1,35 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-09-28T01:29:18Z",
+  "last_updated": "2026-09-28T18:20:08Z",
   "stories": [
+    {
+      "title": "Human trafficking tally reaches 3,401 in five years",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/29/2003865058",
+      "published_date": "2026-09-29T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Morocco begins processing Taiwan tourism visas again",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/29/2003865059",
+      "published_date": "2026-09-29T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Greece stun Juergen Klopp’s Germany",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/sport/archives/2026/09/29/2003865062",
+      "published_date": "2026-09-29T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Taiwanese students rank among the world’s top five in major international assessments 台灣學子國際評比表現亮眼　數學、科學、閱讀等多項進入全球前五",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/lang/archives/2026/09/29/2003865039",
+      "published_date": "2026-09-29T00:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump-Xi meeting: Xi made little progress in summit: official",
       "source": "Taipei Times",
@@ -115,32 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "2-year sentences sought for Chinese men who illegally sailed to Taiwan",
+      "title": "Military seeks to quadruple ammo stockpile",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/25/2003864872",
-      "published_date": "2026-09-25T00:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865069",
+      "published_date": "2026-09-29T00:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "A roadmap for the next UN secretary-general",
+      "title": "The workplace war over iced lattes is not about coffee",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/25/2003864849",
-      "published_date": "2026-09-25T00:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump’s shocking threat to annihilate Iran in UN speech",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/25/2003864850",
-      "published_date": "2026-09-25T00:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN should abolish Security Council veto",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/25/2003864851",
-      "published_date": "2026-09-25T00:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/29/2003865055",
+      "published_date": "2026-09-29T00:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Taiwan to build more anti-ship missiles",
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "TCC Group seeks purchase of Ukraine cement plant",
+      "title": "N Ireland march fuels anger, concern",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/24/2003864784",
-      "published_date": "2026-09-24T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Book review: A furious exercise in score-settling by Princess Diana’s brother",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/feat/archives/2026/09/24/2003864795",
-      "published_date": "2026-09-24T00:00:00Z",
-      "category": "Military"
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/09/29/2003865081",
+      "published_date": "2026-09-29T00:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "AI boom fuels ‘k-shaped’ divide",
@@ -365,6 +372,13 @@
       "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/22/2003864664",
       "published_date": "2026-09-22T00:00:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "EDITORIAL: Central bank walking tightrope",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/29/2003865048",
+      "published_date": "2026-09-29T00:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "China’s consumer stocks face lost decade",
@@ -500,150 +514,143 @@
       "category": "Economy"
     },
     {
-      "title": "Tax official, others indicted over bribes",
+      "title": "New Chiayi drone campus inaugurated",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/23/2003864752",
-      "published_date": "2026-09-23T00:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "好天氣只到週三！本週東北季風報到 「3地」週末轉雨",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5588135",
-      "published_date": "2026-09-28T01:21:54Z",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/29/2003865057",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "高屏二快今天動工  屏東高鐵一度要共用路廊",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5588140",
-      "published_date": "2026-09-28T01:09:54Z",
+      "title": "Thailand, Myanmar flood deaths increasing",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/29/2003865060",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "歐陽靖就讀小一兒拒放假  爆笑理由：不想跟老師分開",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5588108",
-      "published_date": "2026-09-28T01:07:04Z",
+      "title": "Trump ‘jokes’ aside, US stance unchanged: Perdue",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/09/29/2003865061",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "MLB》從20勝31敗、16傷兵到美西封王 太空人近10年9度晉級季後賽",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5588120",
-      "published_date": "2026-09-28T01:05:21Z",
+      "title": "Arms sales vital to ‘T-Dome’: source",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865068",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "中國買不到了！預言伊朗石油交易將停止 美財長：逼到他們下跪",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5588088",
-      "published_date": "2026-09-28T01:00:29Z",
+      "title": "DPP screens film honoring feminist Peng Wan-ru",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865070",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "很多人天天做錯！iPhone App一直滑掉不會更省電　蘋果教正解",
-      "source": "Liberty Times",
-      "url": "https://3c.ltn.com.tw/news/67735",
-      "published_date": "2026-09-28T01:00:00Z",
+      "title": "Protesters to call for lawmakers to get back to work",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865071",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "自由開講》不是替民進黨贏台北，而是替台北贏回未來——洋流如何捲起千堆雪？",
-      "source": "Liberty Times",
-      "url": "https://talk.ltn.com.tw/article/breakingnews/5586276",
-      "published_date": "2026-09-28T01:00:00Z",
+      "title": "MOTC meets holiday traffic goal: Chen",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865072",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "男大生「硬上」高三妹辯你情我願判4年！二審掏出「這金額」換免關",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5588124",
-      "published_date": "2026-09-28T00:54:58Z",
+      "title": "More than 70,000 fake Beyblades seized: police",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865073",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "酒後開車載子上路自撞 父傷子喪命 法院判決出爐",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5588118",
-      "published_date": "2026-09-28T00:54:07Z",
+      "title": "Opening of Shengji Tunnel cuts travel time: ministry",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865074",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "跨世代樂團熱力開唱 中秋連假高雄駁二沸騰",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5588126",
-      "published_date": "2026-09-28T00:52:54Z",
+      "title": "Dead passenger found on bus days after boarding",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865075",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "明華園拒演遭圍剿 許常德：真誠為失言道歉比較好",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5588107",
-      "published_date": "2026-09-28T00:52:11Z",
+      "title": "Three arrested, one at large after fatal drug debt row in Kaohsiung, police say",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865076",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "學校有老師才活得起來 李四川「挺教育」祝老師教師節快樂",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5588123",
-      "published_date": "2026-09-28T00:51:43Z",
+      "title": "Taiwan News Quick Take",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865077",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "收假前來看戲吧！紙風車屏東團《阿猴落地掃2》全新戲碼今首演",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5588117",
-      "published_date": "2026-09-28T00:50:16Z",
+      "title": "Confucian commemoration",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865078",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "「吃屏東香蕉」影片瘋傳 柯志恩止血帶旗山香蕉參加烤肉",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5588116",
-      "published_date": "2026-09-28T00:33:20Z",
+      "title": "Fall foliage",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865079",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "台韓女神米蘭同框！舒淇回眸電暈全網、宋慧喬「下班睡翻」超真實",
-      "source": "Liberty Times",
-      "url": "https://istyle.ltn.com.tw/article/41170",
-      "published_date": "2026-09-28T00:30:00Z",
+      "title": "‘Love is in the air’",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865080",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "自由開講》 年輕人缺的不是6天婚假，而是對未來的信心",
-      "source": "Liberty Times",
-      "url": "https://talk.ltn.com.tw/article/breakingnews/5584693",
-      "published_date": "2026-09-28T00:30:00Z",
+      "title": "Vanguard to expedite Singapore fab",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/29/2003865041",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "日月潭魚虎球封關後續撈 今年衝破4萬尾",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5588114",
-      "published_date": "2026-09-28T00:29:52Z",
+      "title": "Housing projects being delayed in the north",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/29/2003865042",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "MLB》大谷二刀流賽季繳8勝30轟 道奇隔3年奪單季百勝卻有奪冠魔咒",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5588101",
-      "published_date": "2026-09-28T00:29:18Z",
+      "title": "Nvidia debuts system designed to control AI agents",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/29/2003865043",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "李驥大學任創意總監  教師節任性孤獨上班",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5588106",
-      "published_date": "2026-09-28T00:28:59Z",
+      "title": "Bill Gates joins calls for AI safeguards, legislation",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/29/2003865044",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "准了？傳中國允許阿里巴巴、字節跳動購買輝達新晶片",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5588105",
-      "published_date": "2026-09-28T00:27:42Z",
+      "title": "Taiwanese recruiters host event in US",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/29/2003865045",
+      "published_date": "2026-09-29T00:00:00Z",
       "category": "Local Events"
     }
   ]
