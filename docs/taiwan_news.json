@@ -1,7 +1,14 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-10-02T02:04:52Z",
+  "last_updated": "2026-10-02T16:26:55Z",
   "stories": [
+    {
+      "title": "美國在馬紹爾群島核試後遺症 聯合國籲華府出面解決",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5593373",
+      "published_date": "2026-10-02T08:33:29Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Advocates call for research into owls at Shalun park",
       "source": "Taipei Times",
@@ -132,13 +139,6 @@
       "title": "What Xi really wants from Trump",
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/27/2003864949",
-      "published_date": "2026-09-27T00:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "South African women run armed, alert and afraid",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/09/27/2003864979",
       "published_date": "2026-09-27T00:00:00Z",
       "category": "Diplomacy"
     },
@@ -395,6 +395,27 @@
       "category": "Energy"
     },
     {
+      "title": "南美首例！阿根廷宣布投資入籍計畫 捐35萬美元即可拿國籍",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5593748",
+      "published_date": "2026-10-02T13:56:55Z",
+      "category": "Economy"
+    },
+    {
+      "title": "美控為跨國犯罪組織 俄羅斯支付平台A7否認暗助伊朗",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5593449",
+      "published_date": "2026-10-02T10:15:14Z",
+      "category": "Economy"
+    },
+    {
+      "title": "美擴大制裁俄支付平台A7  控協助伊朗規避制裁",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5593380",
+      "published_date": "2026-10-02T09:29:46Z",
+      "category": "Economy"
+    },
+    {
       "title": "英特爾、台積電二選一？投資地位「差在哪」 外媒一文揭密",
       "source": "Liberty Times",
       "url": "https://ec.ltn.com.tw/article/breakingnews/5592757",
@@ -514,164 +535,143 @@
       "category": "Economy"
     },
     {
-      "title": "南韓慘遭中貨反攻醒了？韓媒轟FTA放出「中國製毒藥」",
+      "title": "林智堅新竹棒球場涉圖利不起訴高檢署駁回竹市府再議 林智堅發文了",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5587670",
-      "published_date": "2026-09-27T08:06:10Z",
-      "category": "Economy"
-    },
-    {
-      "title": "韓中FTA10年爆慘案！韓貨中國市占慘掉3成 3年狂吞1.1兆逆差",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5587661",
-      "published_date": "2026-09-27T08:05:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "台積電還沒漲完？外媒喊被低估「現在值得買進」 潛在上漲空間曝光",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5587583",
-      "published_date": "2026-09-27T06:17:05Z",
-      "category": "Economy"
-    },
-    {
-      "title": "跟著台積電走！達麗跨國出手 5.9億收購美國鳳凰城商辦",
-      "source": "Liberty Times",
-      "url": "https://estate.ltn.com.tw/article/28951",
-      "published_date": "2026-10-02T02:00:00Z",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5593834",
+      "published_date": "2026-10-02T16:16:38Z",
       "category": "Local Events"
     },
     {
-      "title": "KID神比喻「台東等於沈文程」 田舞陽新手運拉起恐龍級巨魚",
+      "title": "雨彈升級雨區擴大！北北基宜花慎防豪、大雨 大雷雨轟宜蘭",
       "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5592649",
-      "published_date": "2026-10-02T02:00:00Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5593835",
+      "published_date": "2026-10-02T15:57:22Z",
       "category": "Local Events"
     },
     {
-      "title": "審計部揭離岸風電121億損失 台電：一期已改善、二期年底完工",
+      "title": "爆蔣萬安市府廣場蓋風水池！張益贍：難道要替自己改運？",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5592812",
-      "published_date": "2026-10-02T01:57:54Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5593812",
+      "published_date": "2026-10-02T15:51:59Z",
       "category": "Local Events"
     },
     {
-      "title": "時速105公里狂飆還「伸腳遮牌」 苗栗騎士出大招仍被逮",
+      "title": "法律白話文批蔣萬安「問A答B」 網友讚：說出台北市民心聲",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5592797",
-      "published_date": "2026-10-02T01:57:17Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5593825",
+      "published_date": "2026-10-02T15:51:21Z",
       "category": "Local Events"
     },
     {
-      "title": "中國漁船拒離東沙海域 海巡噴水90秒後展開人道救援",
+      "title": "萊比錫機場無人機炸彈攻擊事件   指向GRU暗殺部隊",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5592771",
-      "published_date": "2026-10-02T01:57:12Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5593831",
+      "published_date": "2026-10-02T15:42:41Z",
       "category": "Local Events"
     },
     {
-      "title": "18歲兄弟持刀重返母校 墨西哥校園攻擊釀1死3傷",
+      "title": "圖輯》沈伯洋師大夜市拜票 「洋流」再度襲捲深藍選區",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5592736",
-      "published_date": "2026-10-02T01:55:00Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5593814",
+      "published_date": "2026-10-02T15:36:09Z",
       "category": "Local Events"
     },
     {
-      "title": "PS5玩家歡呼！Sony導入AI升頻　不用換Pro也能升級遊戲畫質",
+      "title": "沒有最貴只有更貴！三星主力換代至HBM4 價格漲逾3倍",
       "source": "Liberty Times",
-      "url": "https://3c.ltn.com.tw/news/67779",
-      "published_date": "2026-10-02T01:53:00Z",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5593826",
+      "published_date": "2026-10-02T15:23:33Z",
       "category": "Local Events"
     },
     {
-      "title": "海鯤號進行第23次海測 年底前拚交艦",
+      "title": "祝壽廣澤尊王很科技 旗津天聖宮請來AI機器人、機器狗",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/def/breakingnews/5592801",
-      "published_date": "2026-10-02T01:52:38Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5593803",
+      "published_date": "2026-10-02T15:20:45Z",
       "category": "Local Events"
     },
     {
-      "title": "新店娃娃車陷火海！11名師生緊急逃生",
+      "title": "東檢偵辦里長候選人涉嫌送米賄選 依法聲請羈押",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5592803",
-      "published_date": "2026-10-02T01:51:16Z",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5593819",
+      "published_date": "2026-10-02T15:19:44Z",
       "category": "Local Events"
     },
     {
-      "title": "高市議員籲大樹光電場轉型碳匯森林 林欽榮：儘速與水公司協商",
+      "title": "海線獲贈「繫上紅緞帶」甘蔗！何欣純拚倒吃甘蔗、節節高升",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5592775",
-      "published_date": "2026-10-02T01:50:48Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5593820",
+      "published_date": "2026-10-02T15:09:37Z",
       "category": "Local Events"
     },
     {
-      "title": "陳仁杰服務處反批林月琴：未利益迴避 做賊喊捉賊",
+      "title": "飛機起降為何要調暗客艙燈光？桃機解答：不是讓乘客補眠",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5592767",
-      "published_date": "2026-10-02T01:50:12Z",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5593484",
+      "published_date": "2026-10-02T15:09:03Z",
       "category": "Local Events"
     },
     {
-      "title": "高雄24歲男酒醉跌落愛河灣 友人急拉上岸命大送醫",
+      "title": "全球平均餘命只差疫情前0.1歲 世衛：健康餘命恢復較慢",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5592789",
-      "published_date": "2026-10-02T01:49:11Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5593813",
+      "published_date": "2026-10-02T15:06:44Z",
       "category": "Local Events"
     },
     {
-      "title": "屏縣慣竊連闖民宅、工寮下手至少6起 遭警方逮捕收押",
+      "title": "沈伯洋自己想出「大洋流計畫」 船員證揭：支持度與民調非常相近",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5592782",
-      "published_date": "2026-10-02T01:48:24Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5593788",
+      "published_date": "2026-10-02T15:03:59Z",
       "category": "Local Events"
     },
     {
-      "title": "林志玲遭指「相貌突變」...診所護理師爆熱議 整外醫吐「關鍵原因」",
+      "title": "台積電鮮為人知往事大曝光！0營收也敢押  美晶片大咖親揭「一直贏」2關鍵",
       "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5592780",
-      "published_date": "2026-10-02T01:47:56Z",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5593722",
+      "published_date": "2026-10-02T15:02:00Z",
       "category": "Local Events"
     },
     {
-      "title": "吃感冒藥竟爆危機！47歲男一早起床「尿不出來」 膀胱積尿險破裂",
+      "title": "中職》富邦悍將壓力很大打得很認真 葉總：對備戰總冠軍賽很有幫助",
       "source": "Liberty Times",
-      "url": "https://health.ltn.com.tw/article/breakingnews/5592743",
-      "published_date": "2026-10-02T01:47:09Z",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5593818",
+      "published_date": "2026-10-02T15:00:33Z",
       "category": "Local Events"
     },
     {
-      "title": "黃金危險！最新「目標價」被調降了",
+      "title": "川普AI沙皇人選曝光？傳國家情報總監克雷頓兼任",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5592786",
-      "published_date": "2026-10-02T01:46:00Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5593816",
+      "published_date": "2026-10-02T14:56:39Z",
       "category": "Local Events"
     },
     {
-      "title": "亞股驚魂！日經指數一度重摔近800點 韓股上演「黑翻紅」",
+      "title": "重新開幕3個月剩1攤！ 彰化「田中秧夜市」業績雪崩攤商曝原因",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5592760",
-      "published_date": "2026-10-02T01:46:00Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5593815",
+      "published_date": "2026-10-02T14:53:40Z",
       "category": "Local Events"
     },
     {
-      "title": "390萬人福利年底恐泡湯？卓榮泰喊話：盼立院勿成阻力",
+      "title": "（專訪）資深玉女遭騙遭詐未婚生女 驚爆覓得第二春現況曝光了",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5592796",
-      "published_date": "2026-10-02T01:45:57Z",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5593792",
+      "published_date": "2026-10-02T14:48:20Z",
       "category": "Local Events"
     },
     {
-      "title": "給毛孩不一樣的旅行 西拉雅推「汪汪小日子」遊程",
+      "title": "犯保新制滿3年保護範圍擴大 法務部「馨生守護獎」表揚15個人團體",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5592798",
-      "published_date": "2026-10-02T01:44:13Z",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5593790",
+      "published_date": "2026-10-02T14:46:07Z",
       "category": "Local Events"
     },
     {
-      "title": "半裸男環東高架「散步」嚇壞駕駛 狂奔襲警又被搜出安毒",
+      "title": "擁全球第2大稀土礦藏  川普緊盯巴西總統大選",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5592787",
-      "published_date": "2026-10-02T01:42:32Z",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5593807",
+      "published_date": "2026-10-02T14:45:45Z",
       "category": "Local Events"
     }
   ]
