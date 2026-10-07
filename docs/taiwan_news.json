@@ -1,7 +1,14 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-10-06T17:01:36Z",
+  "last_updated": "2026-10-07T02:12:05Z",
   "stories": [
+    {
+      "title": "中東狂送1200萬桶原油出海  國際油價卻跌不下去",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5597985",
+      "published_date": "2026-10-07T01:12:31Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "MOFA urges people not to go to high-risk areas in Myanmar",
       "source": "Taipei Times",
@@ -136,13 +143,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Dead ambassador to Nicaragua’s book makes waves",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/30/2003865131",
-      "published_date": "2026-09-30T00:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Attack aircraft, military vehicles visible at China-Laos base",
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/10/07/2003865526",
@@ -154,6 +154,13 @@
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865538",
       "published_date": "2026-10-07T00:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "俄實驗室人員染肺鼠疫亡 美與世衛關切",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/paper/1773557",
+      "published_date": "2026-10-06T21:30:00Z",
       "category": "Military"
     },
     {
@@ -276,13 +283,6 @@
       "category": "Military"
     },
     {
-      "title": "Drones cannot replace jets in warfare, expert says",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/03/2003865328",
-      "published_date": "2026-10-03T00:00:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Streamlining the carbon fee system",
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/06/2003865455",
@@ -371,20 +371,6 @@
       "source": "Liberty Times",
       "url": "https://ec.ltn.com.tw/article/breakingnews/5590946",
       "published_date": "2026-09-30T08:51:02Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Groups question nuclear review",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/30/2003865130",
-      "published_date": "2026-09-30T00:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Japan’s efforts could redraw  the global oil map",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/30/2003865110",
-      "published_date": "2026-09-30T00:00:00Z",
       "category": "Energy"
     },
     {
@@ -528,143 +514,143 @@
       "category": "Economy"
     },
     {
-      "title": "Hong Kong man charged over attack on Yaita",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/07/2003865524",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "花12萬購買槍毒不到8小時落網 基隆男屢犯槍砲罪判刑7年",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5598022",
+      "published_date": "2026-10-07T02:03:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Tsai receives warm welcome in San Francisco",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/07/2003865525",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "沈伯洋今上《少康戰情室》 沒有「1打5」真相曝光",
+      "source": "Liberty Times",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5597997",
+      "published_date": "2026-10-07T02:03:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Belgian-American physicist wins Nobel for work on ‘ghostly messengers’",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/07/2003865527",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "9旬翁瓣膜逆流引發心臟衰竭 全內視鏡雙瓣膜置換手術救命",
+      "source": "Liberty Times",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5598018",
+      "published_date": "2026-10-07T02:01:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Arizona welcomes representative office",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865534",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "LINE改版被嫌更難用！「好友」分頁狂誤觸　網友氣：還關不掉",
+      "source": "Liberty Times",
+      "url": "https://3c.ltn.com.tw/news/67828",
+      "published_date": "2026-10-07T02:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "US vows to protect from repression",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865535",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "自由開講》看透「順差原罪」 台美民主供應鏈必然",
+      "source": "Liberty Times",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5572933",
+      "published_date": "2026-10-07T02:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Turnover, retention rates among public servants worsening",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865537",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "祭「青年三箭」人口止跌回升！陳素月誓讓彰化煥然一新【政面交鋒】",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5597829",
+      "published_date": "2026-10-07T02:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Shen, Chiang open to debate over drug policy in Taipei mayoral race",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865539",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "陸軍上兵偷拍軍機賣中國公安  驚爆越南籍未婚妻疑「中共安排」",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5598023",
+      "published_date": "2026-10-07T01:56:37Z",
       "category": "Local Events"
     },
     {
-      "title": "CDC announces the first local typhoid case of 2026",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865540",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "30歲科技業女不吸菸仍罹第4期肺癌！ 醫籲：有這症狀快就醫",
+      "source": "Liberty Times",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5598009",
+      "published_date": "2026-10-07T01:56:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Petsitters barred from administering shots, office warns",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865541",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "航港局前技佐賣船艇駕照 桃檢再起訴53名買照民眾",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5598021",
+      "published_date": "2026-10-07T01:55:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Airport expects 738,000 over holiday period",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865542",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "曾是圖庫霸主！Getty Images 遭 AI 打趴 市值蒸發逾 99% 陷生存危機",
+      "source": "Liberty Times",
+      "url": "https://3c.ltn.com.tw/news/67835",
+      "published_date": "2026-10-07T01:55:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Nobel winner Deisseroth to visit in March next year",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865543",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "旅外鄉親有愛！台北市雲林同鄉總會 頒獎助學金助300學子",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5597978",
+      "published_date": "2026-10-07T01:54:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Taichung upgrades smart parking with QR codes",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865544",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "萬華警臨檢同志酒吧失言遭懲處 「白嫖」傳言證實是「張冠李戴」",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5598016",
+      "published_date": "2026-10-07T01:52:41Z",
       "category": "Local Events"
     },
     {
-      "title": "New THSRC trains may pave way for family cars, senior citizen cards",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865545",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "新竹北埔遊覽車猛撞民宅！3乘客送醫 1意識模糊",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5597964",
+      "published_date": "2026-10-07T01:52:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Lai lauds Taiwan athletes after lackluster Asian Games performance",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865546",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "桃園市將增設第3位副市長 修正草案送議會審查",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5598013",
+      "published_date": "2026-10-07T01:51:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Taiwan News Quick Take",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865547",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "宜蘭頭城頂埔里長招待看舞台劇吃大餐 涉賄選5萬元交保",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5598019",
+      "published_date": "2026-10-07T01:50:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Ready, set, go!",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865548",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "北市警方搜索BDSM同志酒吧爭議延燒 多名議員參選人告發違法搜索",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5598001",
+      "published_date": "2026-10-07T01:50:06Z",
       "category": "Local Events"
     },
     {
-      "title": "Performance practice",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865549",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "GPS神救援！男登冬瓜山迷路 消防32分鐘尋獲",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5597995",
+      "published_date": "2026-10-07T01:50:03Z",
       "category": "Local Events"
     },
     {
-      "title": "High-end office demand remains, JLL Taiwan says",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/07/2003865508",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "高雄綠營搭上沈伯洋熱潮  合體看板成吸睛利器",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5598015",
+      "published_date": "2026-10-07T01:49:23Z",
       "category": "Local Events"
     },
     {
-      "title": "Interview: More healthcare providers to adopt AI: Acer Medical",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/07/2003865509",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "最低工資明年調漲  高雄市逾20萬勞工受惠",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5598012",
+      "published_date": "2026-10-07T01:47:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Eclat expecting revenue increase in fourth quarter",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/07/2003865510",
-      "published_date": "2026-10-07T00:00:00Z",
+      "title": "北市醫師整理沈伯洋逐字遭查水錶？昆明中心員工也爆「層層關心」刪文",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5598005",
+      "published_date": "2026-10-07T01:46:21Z",
       "category": "Local Events"
     }
   ]
