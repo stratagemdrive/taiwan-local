@@ -1,6 +1,6 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-10-12T20:05:02Z",
+  "last_updated": "2026-10-13T03:25:29Z",
   "stories": [
     {
       "title": "Taiwan condemns Beijing’s political coercion on diplomatic partners",
@@ -143,6 +143,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "台灣買到了！沙烏地擴大原油出口 外媒曝「1方式」緩減戰爭衝擊",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5604228",
+      "published_date": "2026-10-13T00:19:02Z",
+      "category": "Military"
+    },
+    {
       "title": "Taiwan closely monitoring China drills",
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865868",
@@ -276,13 +283,6 @@
       "category": "Military"
     },
     {
-      "title": "Call for more defense hackathons",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/09/2003865641",
-      "published_date": "2026-10-09T00:00:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Energy boost",
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865884",
@@ -308,6 +308,13 @@
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/feat/archives/2026/10/13/2003865856",
       "published_date": "2026-10-13T00:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "中英對照讀新聞》US 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco’s Ivascyn tells FT 品浩的伊瓦辛告訴金融時報：美國10年期公債殖利率可能自2000年以來首次觸及6％",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/paper/1774291",
+      "published_date": "2026-10-12T21:30:00Z",
       "category": "Energy"
     },
     {
@@ -364,13 +371,6 @@
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/08/2003865584",
       "published_date": "2026-10-08T00:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Streamlining the carbon fee system",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/06/2003865455",
-      "published_date": "2026-10-06T00:00:00Z",
       "category": "Energy"
     },
     {
@@ -514,143 +514,143 @@
       "category": "Economy"
     },
     {
-      "title": "Six of new F-16s complete factory test",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/13/2003865857",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "花蓮大專校園女廁爆偷拍！男學生強抱被害女摀嘴硬逃",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5604448",
+      "published_date": "2026-10-13T03:18:34Z",
       "category": "Local Events"
     },
     {
-      "title": "US nonprofit designates Lala Mountain a dark sky site",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/13/2003865859",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "首位酒駕被免職法官張軒豪！轉任事務官又酒駕撞傷路人 懲戒休職1年",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5604447",
+      "published_date": "2026-10-13T03:18:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Pope Leo XIV to undergo surgery to remove lung nodule",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/13/2003865860",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "酒後騎機車逆向上國道   70歲老翁慘了",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5604423",
+      "published_date": "2026-10-13T03:16:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Four questioned over software used in government",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865870",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "台灣大賽》龍象首次交鋒決戰大巨蛋！聯盟公布賽程資訊",
+      "source": "Liberty Times",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5604460",
+      "published_date": "2026-10-13T03:15:07Z",
       "category": "Local Events"
     },
     {
-      "title": "2026 Elections: Six media outlets invite Chiang and Shen to debate",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865872",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "中國男「樓上百日宴、樓下辦婚宴」！ 女主角不同人現場爆衝突",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5604399",
+      "published_date": "2026-10-13T03:14:29Z",
       "category": "Local Events"
     },
     {
-      "title": "2026 Elections: Man given deferred prosecution over post of fake Puma Shen photo",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865873",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "美聯冠軍賽》Guardians大逆襲！光芒牛棚崩盤 守護者逆轉奪勝",
+      "source": "Liberty Times",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5604390",
+      "published_date": "2026-10-13T03:13:36Z",
       "category": "Local Events"
     },
     {
-      "title": "2026 Elections: Twelve mayoral candidates sign on to sustainability pledges",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865874",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "蘇巧慧提淡海科學城 李四川重申「北有科學城」即指淡海",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604461",
+      "published_date": "2026-10-13T03:12:09Z",
       "category": "Local Events"
     },
     {
-      "title": "2026 Elections: Kaohsiung mayoral candidates outline AI industry development plans",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865875",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "蔡英文回台灣了！機上靠「暈碳神器」補眠 落地親揭訪美核心",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604442",
+      "published_date": "2026-10-13T03:12:01Z",
       "category": "Local Events"
     },
     {
-      "title": "NHRI finds genes linked to early schizophrenia",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865876",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "中國制裁挺台友邦部長  美國務院痛批北京「脅迫與侵略」",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5604426",
+      "published_date": "2026-10-13T03:11:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Taiwan to start exporting breeding cattle to Manila",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865877",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "新北最新民調蘇巧慧領先   台派女神：台北市需要改變",
+      "source": "Liberty Times",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5604455",
+      "published_date": "2026-10-13T03:11:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Digital expense refund service portal launched",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865878",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "2026全球城市指數排名 竹市第157名 、「生活品質」指標全臺第一",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5604456",
+      "published_date": "2026-10-13T03:10:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Official reaffirms drug prevention policy",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865879",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "淡海科學城政見被對手指為「線上娛樂城」 蘇巧慧：延續賴清德政見",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604443",
+      "published_date": "2026-10-13T03:10:06Z",
       "category": "Local Events"
     },
     {
-      "title": "Taiwan building bridges of peace, knowledge: Lai",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865880",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "《金法尤物》女星驚傳機上再度暴走！咬空服員 落地後又爆衝突",
+      "source": "Liberty Times",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5604459",
+      "published_date": "2026-10-13T03:09:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Victim’s nephew arrested in fatal Sinjhuang stabbing",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865881",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "蘇巧慧民調領先李四川13％   柯志恩酸：會做出我輸40％吧",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604454",
+      "published_date": "2026-10-13T03:08:01Z",
       "category": "Local Events"
     },
     {
-      "title": "Let culture bloom",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865882",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "健康網》好油不只Omega-3 醫揭1營養素助減肝脂肪、穩血糖",
+      "source": "Liberty Times",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5604031",
+      "published_date": "2026-10-13T03:07:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vocational talent",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865883",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "日本九州新幹線高架電車線損壞 全面停駛旅客叫苦",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5604403",
+      "published_date": "2026-10-13T03:06:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Memory crunch goes on: Nanya",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/13/2003865841",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "自由說新聞》俄版Google被炸爛「機器人」全掛！ 歐盟開戰以來最狠出手助烏克蘭",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5604452",
+      "published_date": "2026-10-13T03:06:38Z",
       "category": "Local Events"
     },
     {
-      "title": "Business travel pumping up guest numbers: hotelier",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/13/2003865843",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "金價恐迎新變數！全球央行最強購金第4大戶「開始賣黃金」原因曝光",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5604358",
+      "published_date": "2026-10-13T03:06:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Adequately sized cups",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/13/2003865847",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "蘇巧慧領先李四川13.1％！ 林楚茵：選民看清「萬川連線」鬧劇",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604421",
+      "published_date": "2026-10-13T03:03:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Chiang’s past catching up with him",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/13/2003865850",
-      "published_date": "2026-10-13T00:00:00Z",
+      "title": "法國海軍印度洋登檢油輪 強化打擊俄羅斯影子艦隊力道",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5604393",
+      "published_date": "2026-10-13T03:03:56Z",
       "category": "Local Events"
     }
   ]
