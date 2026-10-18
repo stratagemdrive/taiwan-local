@@ -1,7 +1,21 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-10-17T14:02:11Z",
+  "last_updated": "2026-10-18T00:44:06Z",
   "stories": [
+    {
+      "title": "China’s panda diplomacy is losing its charm",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/18/2003866154",
+      "published_date": "2026-10-18T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "This Chinese export boom really has legs – and wings",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/18/2003866155",
+      "published_date": "2026-10-18T00:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU leaders rally around Zelenskiy",
       "source": "Taipei Times",
@@ -129,18 +143,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "沙烏地阿拉伯機場遇襲釀12死逾300傷  魯比歐證實有美國公民喪生",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5602413",
-      "published_date": "2026-10-11T02:37:37Z",
-      "category": "Diplomacy"
+      "title": "Military to enlist civilians to map coast",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866157",
+      "published_date": "2026-10-18T00:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "KMT’s Cheng Li-wun on the ballot",
+      "title": "Songshan airport important for defense, researcher says",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/11/2003865745",
-      "published_date": "2026-10-11T00:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866169",
+      "published_date": "2026-10-18T00:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "People urged to make advance healthcare plans",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866173",
+      "published_date": "2026-10-18T00:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "中英對照讀新聞》U2 mark 50 years together with concert at school where it all began慶祝成立50週年 U2成員在發跡母校集結開唱",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/paper/1774965",
+      "published_date": "2026-10-17T21:30:00Z",
+      "category": "Military"
     },
     {
       "title": "荷姆茲新加坡貨船遭擊沉！大量iPhone海上漂 伊朗漁民搶爆",
@@ -251,34 +279,6 @@
       "title": "Taiwan closely monitoring plague rumors: premier",
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/10/14/2003865925",
-      "published_date": "2026-10-14T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Lightmatter reveals plans for its new technologies",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/14/2003865908",
-      "published_date": "2026-10-14T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Energy security a question of time",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/14/2003865915",
-      "published_date": "2026-10-14T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Saudis probe how defense systems failed",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/10/14/2003865949",
-      "published_date": "2026-10-14T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Bedbug infestation forces Qantas to ground airplane",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/10/14/2003865952",
       "published_date": "2026-10-14T00:00:00Z",
       "category": "Military"
     },
@@ -416,11 +416,11 @@
       "category": "Energy"
     },
     {
-      "title": "South Australia’s green energy transition proved doubters wrong",
+      "title": "Taiwan in Time:How cold, dry winds powered Hsinchu’s rice noodle industry",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/11/2003865750",
-      "published_date": "2026-10-11T00:00:00Z",
-      "category": "Energy"
+      "url": "https://www.taipeitimes.com/News/feat/archives/2026/10/18/2003866156",
+      "published_date": "2026-10-18T00:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "AI熱潮當頭 Anthropic創辦人：美國GDP可能大增",
@@ -556,150 +556,143 @@
       "category": "Economy"
     },
     {
-      "title": "Taiwan’s GDP to reach 10.7%, IMF says",
+      "title": "鄭明典提副熱帶高壓兩影響  「薔琵」路徑南修機率增加",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5609968",
+      "published_date": "2026-10-18T00:31:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "複習愛情摩天輪始末   好過日：柯志恩是韓國瑜一脈相傳",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5609976",
+      "published_date": "2026-10-18T00:30:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "自由開講》鐵飯碗不香了？其實是人才市場重新定價了",
+      "source": "Liberty Times",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5599991",
+      "published_date": "2026-10-18T00:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "複製凱特王妃的高級感不用花大錢！專家揭「這眼神」是決定氣質關鍵",
+      "source": "Liberty Times",
+      "url": "https://istyle.ltn.com.tw/article/41306",
+      "published_date": "2026-10-18T00:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "重陽節限定   65歲以上長者今搭高捷、輕軌可「坐到飽」",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5609980",
+      "published_date": "2026-10-18T00:28:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "藍心湄在家愛看《年代晚報》 張雅琴「開心」回應",
+      "source": "Liberty Times",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5609966",
+      "published_date": "2026-10-18T00:26:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "健康網》87歲肌少還有救！ 研究揭半年做對3件事 握力增3.2公斤",
+      "source": "Liberty Times",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5608854",
+      "published_date": "2026-10-18T00:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "法國示威變全國暴亂！ 縱火洗劫頻傳 逾1200人被捕",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5609964",
+      "published_date": "2026-10-18T00:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Official warns of China poll risk",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/14/2003865923",
-      "published_date": "2026-10-14T00:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "北韓試射AI導引新型魚雷 專家點出技術「罩門」",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5609854",
-      "published_date": "2026-10-17T13:55:40Z",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866158",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "蔣萬安喊連任後參加園長會議 陳培瑜嗆：原來參加是隱藏任務？",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5609717",
-      "published_date": "2026-10-17T13:54:04Z",
+      "title": "Mortgage numbers for seniors surge to historic peak",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866159",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "漏網鏡頭》總冠軍戰劍拔弩張前的風景",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5609855",
-      "published_date": "2026-10-17T13:52:08Z",
+      "title": "Trump’s sanctions waiver\n‘rewards’ Putin: Zelenskiy",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866160",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "薔琵成為強烈颱風！北轉遠離、直接侵襲?最新路徑潛勢曝",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5609853",
-      "published_date": "2026-10-17T13:50:50Z",
+      "title": "Three jailed for over 158 years in surfer murders",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866161",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "出席中和點燈文化節 李四川：落實新住民四大升級政策",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5609818",
-      "published_date": "2026-10-17T13:45:49Z",
+      "title": "Taiwan to buy 292 VTOL drones from Shield AI",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866167",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "金錢豹有這項服務 台中衛生局出手了",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5609849",
-      "published_date": "2026-10-17T13:42:34Z",
+      "title": "More Taiwanese traveled to China this year",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866168",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "金鐘61》不斷更新  最佳藝術文化播客《日日係好日》",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5608831",
-      "published_date": "2026-10-17T13:42:00Z",
+      "title": "Taipei airport a medical evacuation hub: official",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866170",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "全民運》最年輕選手6歲、最年長88歲 賴清德：展現全民運動精神",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5609786",
-      "published_date": "2026-10-17T13:41:14Z",
+      "title": "Chinese ships enter restricted waters around Pratas: CGA",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866171",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "才痛失父親...理想混蛋可沛唱一半 看到媽媽現蹤爆哭",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5609846",
-      "published_date": "2026-10-17T13:37:49Z",
+      "title": "Group calls for more vehicle safety",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866172",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "舉債燒錢未獲利！「輝達親兒子」CoreWeave成AI拋售導火線",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5609838",
-      "published_date": "2026-10-17T13:37:30Z",
+      "title": "‘Sunflower Queen’ indicted on drug trafficking charges",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866174",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "台中大里驚傳12歲男童墜樓 失去呼吸心跳搶救中",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5609845",
-      "published_date": "2026-10-17T13:37:25Z",
+      "title": "A call a day keeps the phone company away",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866175",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "替柯志恩站台韓國瑜重提「愛情摩天輪」 網吐槽：2018講的爛東西",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5609823",
-      "published_date": "2026-10-17T13:31:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "「亞洲這國」不愛去越南了？前10大客源唯一負成長 背後藏殘酷真相",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5609844",
-      "published_date": "2026-10-17T13:31:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "健康網》深探男人「聖人模式」網紅醫：察覺不同要當心",
-      "source": "Liberty Times",
-      "url": "https://health.ltn.com.tw/article/breakingnews/5609473",
-      "published_date": "2026-10-17T13:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "今天才刪文！蔡康永Threads帳號「轉不公開」 網憂被施壓",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5609837",
-      "published_date": "2026-10-17T13:24:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "持空氣槍射擊選舉布條  南投2男被逮稱「覺得好玩」",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5609768",
-      "published_date": "2026-10-17T13:21:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "8年花沒開 韓國瑜喊話「今年讓花開一次」讓蘇清泉當選",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5609807",
-      "published_date": "2026-10-17T13:20:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "「百變隆隆」躍上舞台  賴瑞隆化身第17角色驚喜現身",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5609827",
-      "published_date": "2026-10-17T13:11:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TPBL》夢想家首戰失利明迎戰補進賀丹的海神  簡浩：會是很大的挑戰",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5609829",
-      "published_date": "2026-10-17T13:09:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "台灣大賽》配球策略大翻轉徹底壓制兄弟打線  林辰勳透露秘辛",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5609828",
-      "published_date": "2026-10-17T13:05:15Z",
+      "title": "Modular animal shelters in use",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866176",
+      "published_date": "2026-10-18T00:00:00Z",
       "category": "Local Events"
     }
   ]
