@@ -1,7 +1,14 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-10-18T14:13:45Z",
+  "last_updated": "2026-10-19T00:55:51Z",
   "stories": [
+    {
+      "title": "Is China’s Cultural Revolution really over?",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/19/2003866198",
+      "published_date": "2026-10-19T00:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "China’s panda diplomacy is losing its charm",
       "source": "Taipei Times",
@@ -122,25 +129,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Notes from Central Taiwan: Beijing’s intimidation tactics in Taiwan and beyond",
+      "title": "Frozen defense items not on agenda",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/feat/archives/2026/10/12/2003865797",
-      "published_date": "2026-10-12T00:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/19/2003866204",
+      "published_date": "2026-10-19T00:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "沙烏地阿拉伯機場再度遇襲  葉門叛軍襲擊釀1死11傷",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5603141",
-      "published_date": "2026-10-11T23:31:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "葉門叛軍再次警告航空公司 勿使用沙烏地領空及機場",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5603053",
-      "published_date": "2026-10-11T14:32:12Z",
-      "category": "Diplomacy"
+      "title": "Drugmaker plans Puerto Rico plant",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/19/2003866189",
+      "published_date": "2026-10-19T00:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Military to enlist civilians to map coast",
@@ -269,18 +269,11 @@
       "category": "Military"
     },
     {
-      "title": "新加坡2貨輪航經荷姆茲海峽遇襲 1船沉沒1受損 43船員平安獲救",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5606539",
-      "published_date": "2026-10-14T14:29:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Taiwan closely monitoring plague rumors: premier",
+      "title": "CPC, Formosa keep fuel prices flat for fifth week",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/14/2003865925",
-      "published_date": "2026-10-14T00:00:00Z",
-      "category": "Military"
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/19/2003866192",
+      "published_date": "2026-10-19T00:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Nuclear power option still under consideration: Lai",
@@ -402,18 +395,32 @@
       "category": "Energy"
     },
     {
-      "title": "ECCT chair urges agility in software and energy",
+      "title": "AI trade reversal pierces star stocks across Asia",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/12/2003865785",
-      "published_date": "2026-10-12T00:00:00Z",
-      "category": "Energy"
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/19/2003866193",
+      "published_date": "2026-10-19T00:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "No change to fuel prices for fourth week in a row",
+      "title": "Brahma Chellaney On Taiwan: Taiwan risks becoming a bargaining chip in Trump’s China pivot",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/12/2003865787",
-      "published_date": "2026-10-12T00:00:00Z",
-      "category": "Energy"
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/19/2003866196",
+      "published_date": "2026-10-19T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "How worried should we be for the economy?",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/19/2003866201",
+      "published_date": "2026-10-19T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "中英對照讀新聞》Fed’s Williams hints next rate increase can wait 美國聯準會的威廉斯暗示，下次升息可以再等等",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/paper/1775122",
+      "published_date": "2026-10-18T21:30:00Z",
+      "category": "Economy"
     },
     {
       "title": "台灣投資人瘋美股 前8月複委託衝破12.8兆",
@@ -528,171 +535,143 @@
       "category": "Economy"
     },
     {
-      "title": "IMF urges members to stock up funds to aid poor states",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/15/2003865990",
-      "published_date": "2026-10-15T00:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "ASML struggles with chip tool demand",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/15/2003865969",
-      "published_date": "2026-10-15T00:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Four state asset managers to merge: finance minister",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/15/2003865973",
-      "published_date": "2026-10-15T00:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Notes from Central Taiwan: Annexation could sever Taiwan’s chip lifeline",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/feat/archives/2026/10/15/2003865982",
-      "published_date": "2026-10-15T00:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "晶片股面臨拋售潮！美媒：買進台積電作為「安全牌」",
+      "title": "獨家》「洋流」湧進國境之南！恆春小水滴攜飄帶直奔「最南點」打卡",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5610693",
-      "published_date": "2026-10-18T14:08:22Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5610837",
+      "published_date": "2026-10-19T00:45:48Z",
       "category": "Local Events"
     },
     {
-      "title": "張善政與黃世杰最大差別？賴清德：心有沒有在桃園",
+      "title": "在台北民生社區生活50年  粉絲激動從沒看過這麼多人",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5610667",
-      "published_date": "2026-10-18T13:57:37Z",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5610824",
+      "published_date": "2026-10-19T00:44:16Z",
       "category": "Local Events"
     },
     {
-      "title": "（影）沈伯洋車掃吳怡農帥醒「農婦」  網友卻為王世堅吵起來",
+      "title": "太魯閣峽谷音樂季「迴聲40」 12/5主場優人神鼓壓軸",
       "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5610695",
-      "published_date": "2026-10-18T13:53:10Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5610835",
+      "published_date": "2026-10-19T00:43:31Z",
       "category": "Local Events"
     },
     {
-      "title": "丈夫突進加護病房 新住民配偶搶洋流飄帶盼「沈伯洋給力」",
+      "title": "天龍國房價創高後摔一跤！新北第一環變搶手貨！專家揭背後外溢恐怖效應",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5610626",
-      "published_date": "2026-10-18T13:52:19Z",
+      "url": "https://estate.ltn.com.tw/article/29065",
+      "published_date": "2026-10-19T00:42:49Z",
       "category": "Local Events"
     },
     {
-      "title": "為了炸雞塊！男酒駕取餐2度大鬧店家 拒絕酒測罰18萬扣車送辦",
+      "title": "手機吊飾成線索！網紅追「北市府假帳號造謠案」：指使抹黑沈伯洋？",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5610687",
-      "published_date": "2026-10-18T13:51:34Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5610811",
+      "published_date": "2026-10-19T00:42:11Z",
       "category": "Local Events"
     },
     {
-      "title": "贈張以理「天翻地覆」中堂 陳其邁撂話：他當選、我唱歌",
+      "title": "Credo布局NPO光互連 1.6T光纜明年出貨",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5610627",
-      "published_date": "2026-10-18T13:45:22Z",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5610836",
+      "published_date": "2026-10-19T00:40:31Z",
       "category": "Local Events"
     },
     {
-      "title": "壓抑太久崩壞！66歲嬤突獲400萬遺產砸120萬爽玩 1年後慘況曝光",
+      "title": "經典電玩再掀熱潮！《快打旋風》強勢登頂北美票房冠軍",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5610682",
-      "published_date": "2026-10-18T13:44:21Z",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5610761",
+      "published_date": "2026-10-19T00:40:00Z",
       "category": "Local Events"
     },
     {
-      "title": "逃南韓遭押返！高雄權利車行殺人案 老闆等2人遭聲押",
+      "title": "客家幣申報惹議 全教產批學校變行政窗口 客委會：增個人申請管道",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5610678",
-      "published_date": "2026-10-18T13:42:50Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5610830",
+      "published_date": "2026-10-19T00:37:45Z",
       "category": "Local Events"
     },
     {
-      "title": "江啟臣自爆念台中一中偷轉組 家人不知情還翹課暑假跑去玩",
+      "title": "NBA》勇士「萌神」柯瑞公開訓練不慎扭傷腳踝 教頭柯爾說明狀況",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5610617",
-      "published_date": "2026-10-18T13:38:19Z",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5610814",
+      "published_date": "2026-10-19T00:36:46Z",
       "category": "Local Events"
     },
     {
-      "title": "台灣大賽》「生涯最難忘一轟」  曾聖安其實手腳都抽筋了",
+      "title": "亞股又崩了！韓股暴跌逾3％ 日經狂瀉近1500點",
       "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5610686",
-      "published_date": "2026-10-18T13:35:59Z",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5610818",
+      "published_date": "2026-10-19T00:36:24Z",
       "category": "Local Events"
     },
     {
-      "title": "美期中選舉前夕 川普支持率跌至33％新低 民主黨聲勢看漲",
+      "title": "台裔子弟卑詩省參政受矚目  姚君憲代表新民主黨再戰列治文中選區",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5610677",
-      "published_date": "2026-10-18T13:35:59Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5610820",
+      "published_date": "2026-10-19T00:34:36Z",
       "category": "Local Events"
     },
     {
-      "title": "國1南下麻豆路段3車追撞  6人輕傷送醫",
+      "title": "法操》【刑法小教室】醫美負責人涉偷拍，羈押有什麼要件，什麼是羈押禁見？",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5610673",
-      "published_date": "2026-10-18T13:33:01Z",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5605143",
+      "published_date": "2026-10-19T00:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "TPBL》夢想家兩戰罰球欠佳 簡浩坦言只能多練、馬建豪11罰4中扛責",
+      "title": "日本捕獲野生孫藝真！坐海盜船竟沒人認出、蓬蓬裙配球鞋嫩得像少女",
       "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5610683",
-      "published_date": "2026-10-18T13:31:51Z",
+      "url": "https://istyle.ltn.com.tw/article/41350",
+      "published_date": "2026-10-19T00:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "2026台灣文化日音樂會人潮湧爆大稻埕廣場  文化部邀全台大串聯",
+      "title": "就是今天！行憲紀念日連假台金機票40006座位九點開賣",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/art/breakingnews/5610655",
-      "published_date": "2026-10-18T13:31:26Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5610821",
+      "published_date": "2026-10-19T00:29:36Z",
       "category": "Local Events"
     },
     {
-      "title": "嘉市出租公寓命案！72歲男持刀刺死鄰居落網裁定羈押",
+      "title": "健康網》「咖啡」酸苦大不同 心臟醫：抗發炎選它",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5610674",
-      "published_date": "2026-10-18T13:28:57Z",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5609638",
+      "published_date": "2026-10-19T00:26:00Z",
       "category": "Local Events"
     },
     {
-      "title": "強颱薔琵週五六最近台灣 暴雨熱區一圖看懂",
+      "title": "無敵幸運！粉絲遊日本代官山   驚喜撞見木村拓哉遛狗",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5610599",
-      "published_date": "2026-10-18T13:25:54Z",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5610805",
+      "published_date": "2026-10-19T00:20:18Z",
       "category": "Local Events"
     },
     {
-      "title": "台灣大賽》味全龍深入研究！  張士綸+張仁瑋16打數0安打",
+      "title": "薔琵恐維持強颱1週！專家示警「4地」侵襲率達50％：機率上升中",
       "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5610675",
-      "published_date": "2026-10-18T13:23:16Z",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5610809",
+      "published_date": "2026-10-19T00:20:15Z",
       "category": "Local Events"
     },
     {
-      "title": "健康網》久坐熬夜 醫：小心「深層靜脈血栓」",
+      "title": "潔西卡雀絲坦嚇出好成績！《另一個媽咪》小兵立大功全球勇破7878萬美金",
       "source": "Liberty Times",
-      "url": "https://health.ltn.com.tw/article/breakingnews/5609562",
-      "published_date": "2026-10-18T13:23:00Z",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5610772",
+      "published_date": "2026-10-19T00:20:00Z",
       "category": "Local Events"
     },
     {
-      "title": "沈伯洋力挺林國漳 喊話讓「洋流」及「暖流」攜手向前",
+      "title": "蘇巧慧：接棒市長最大目標是區域均衡、城市認同",
       "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5610623",
-      "published_date": "2026-10-18T13:22:11Z",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5610816",
+      "published_date": "2026-10-19T00:14:06Z",
       "category": "Local Events"
     },
     {
-      "title": "TPBL》驚天逆轉海神收首勝 簡浩肯定團隊意志力、大嘆洛斯柯都不會累",
+      "title": "恭喜！63歲資深玉女歌手又當阿嬤 美國媳婦懷上二寶明年回台灣",
       "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5610672",
-      "published_date": "2026-10-18T13:18:38Z",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5610778",
+      "published_date": "2026-10-19T00:10:00Z",
       "category": "Local Events"
     }
   ]
