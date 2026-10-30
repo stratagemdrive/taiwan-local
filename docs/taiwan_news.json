@@ -1,7 +1,28 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-10-30T02:28:20Z",
+  "last_updated": "2026-10-30T16:53:27Z",
   "stories": [
+    {
+      "title": "Beijing denies spying on Nvidia CEO Jensen Huang",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/10/31/2003866928",
+      "published_date": "2026-10-31T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "南韓仁川機場報到系統大當機！旅客大排長龍班機嚴重延誤",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5624017",
+      "published_date": "2026-10-30T08:19:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "魯比歐主持G20外長會議 伊朗戰爭與俄烏衝突恐引發分歧",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5623938",
+      "published_date": "2026-10-30T07:49:15Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "US Army outlines Pacific deployments for possible 2027 China-Taiwan conflict",
       "source": "Taipei Times",
@@ -122,25 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Arsenal join Man City at summit after Villa upset",
+      "title": "Crypto platform Binance confirms US$6.3bn hack",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/sport/archives/2026/10/26/2003866619",
-      "published_date": "2026-10-26T00:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/31/2003866906",
+      "published_date": "2026-10-31T00:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "台灣大賽》菲力士準備好完全燃燒  「如果球隊需要我...」",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5618531",
-      "published_date": "2026-10-25T13:30:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Minister of Foreign Affairs Lin Chia-lung urges AI, drone ties with Europe",
+      "title": "Far right’s plans for Europe would benefit Xi, Putin and Trump",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/25/2003866583",
-      "published_date": "2026-10-25T00:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/31/2003866900",
+      "published_date": "2026-10-31T00:00:00Z",
+      "category": "Military"
     },
     {
       "title": "US and Japan to establish missile production facility",
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Masayoshi plans Malaysia outlay",
+      "title": "Ministry approves first carbon sequestration exploration",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/26/2003866599",
-      "published_date": "2026-10-26T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "UK, French troops war-game attack on NATO",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/10/26/2003866638",
-      "published_date": "2026-10-26T00:00:00Z",
-      "category": "Military"
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/31/2003866904",
+      "published_date": "2026-10-31T00:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Taiwanese professor wins award in Paris for wastewater-to-energy research",
@@ -372,6 +379,41 @@
       "url": "https://www.taipeitimes.com/News/world/archives/2026/10/24/2003866548",
       "published_date": "2026-10-24T00:00:00Z",
       "category": "Energy"
+    },
+    {
+      "title": "Hon Hai expects revenue growth in double digits",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/31/2003866888",
+      "published_date": "2026-10-31T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Central bank members show concern about inflation",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/31/2003866889",
+      "published_date": "2026-10-31T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Q3 GDP growth hits 14.36%, highest in 48 years",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/31/2003866891",
+      "published_date": "2026-10-31T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "歐元區第3季經濟成長0.4％ 優於市場預期",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5624246",
+      "published_date": "2026-10-30T15:39:44Z",
+      "category": "Economy"
+    },
+    {
+      "title": "連4季雙位數成長！第3季GDP成長14.36％  創48年同季新高",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5624010",
+      "published_date": "2026-10-30T08:15:32Z",
+      "category": "Economy"
     },
     {
       "title": "US bans imports from Chinese genomics firms",
@@ -479,178 +521,143 @@
       "category": "Economy"
     },
     {
-      "title": "Kentec sees EMS, AI infrastructure as growth drivers",
+      "title": "VP details drone development strategy",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/28/2003866720",
-      "published_date": "2026-10-28T00:00:00Z",
-      "category": "Economy"
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/31/2003866902",
+      "published_date": "2026-10-31T00:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Foreign fund outflows send Taiwan dollar sharply lower: Central bank",
+      "title": "Legislative Yuan stiffens penalties on drug driving",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/28/2003866721",
-      "published_date": "2026-10-28T00:00:00Z",
-      "category": "Economy"
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/31/2003866903",
+      "published_date": "2026-10-31T00:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Argentina’s economic chainsaw massacre",
+      "title": "Netanyahu’s bloc loses majority in Israeli parliament",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/28/2003866731",
-      "published_date": "2026-10-28T00:00:00Z",
-      "category": "Economy"
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/31/2003866905",
+      "published_date": "2026-10-31T00:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "財報前先賣了！女股神減持超微、台積電 轉身押寶「這產業」",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5620700",
-      "published_date": "2026-10-27T12:07:45Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Chip capacity an asset for Taiwan, researcher says",
+      "title": "Ministry touts Taiwanese pineapple export success",
       "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/27/2003866685",
-      "published_date": "2026-10-27T00:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "製造業續亮黃藍燈 台經院示警：主要國家公債殖利率走高埋風險",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5623546",
-      "published_date": "2026-10-30T02:24:46Z",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866913",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "央視批打「抗中牌」騙選票 沈伯洋反酸：讓中國多點言論自由",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5623526",
-      "published_date": "2026-10-30T02:21:55Z",
+      "title": "Monsoons to bring mercury drop",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866914",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "佀廣洋涉社區垃圾子母車與摸彩賄選案 12萬元交保",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5623535",
-      "published_date": "2026-10-30T02:21:16Z",
+      "title": "Indigenous ancestry travel book launched",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866915",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "焦點股》欣興：股災來襲！   跌出千元俱樂部",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5623541",
-      "published_date": "2026-10-30T02:21:14Z",
+      "title": "Advocates criticize handling of river silt buildup issue",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866916",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "李四川批評打負面選戰 蘇巧慧：網友針對小琉球案評論、非針對個人",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5623537",
-      "published_date": "2026-10-30T02:20:42Z",
+      "title": "Czechia eyes drone assembly in Taiwan",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866917",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "盛讚美國逮捕馬杜羅 馬查多稱川普為委國打開「自由之門」",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/breakingnews/5623504",
-      "published_date": "2026-10-30T02:19:40Z",
+      "title": "Pakistan ban shows ICAO inclusion needed: minister",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866918",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "當眾遭戳胸摟腰！大咖女星出席活動被「鹹豬手」狂蹭 尷尬縮肩閃躲畫面曝光",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5623525",
-      "published_date": "2026-10-30T02:18:27Z",
+      "title": "CEC head Michael You apologizes for national ID leak",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866919",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "巴基斯坦一度對台祭禁航令 卓榮泰：盼若干國家勿破壞航空安全",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5623536",
-      "published_date": "2026-10-30T02:16:35Z",
+      "title": "Lawmakers clash on alimony issue",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866920",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "美陸軍島鏈部隊要即刻作戰 胡振東：台美日菲強化聯防嚇阻中國",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/def/breakingnews/5623540",
-      "published_date": "2026-10-30T02:14:15Z",
+      "title": "Plenum could formalize Xi’s extended rule: experts",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866921",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "五峰鄉公所清潔隊  連人帶車換新裝",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5623529",
-      "published_date": "2026-10-30T02:12:59Z",
+      "title": "Apple to lower App Store commission rate to 26% today",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866922",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "高鐵 5G 訊號不夠穩！三大電信實測都有通話異常　隧道成收訊罩門",
-      "source": "Liberty Times",
-      "url": "https://3c.ltn.com.tw/news/68115",
-      "published_date": "2026-10-30T02:10:00Z",
+      "title": "Ready for Halloween",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866923",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "被當遠離政治負面教材？蔡康永直球回擊：我沒少一塊肉！葉天倫震撼發聲",
-      "source": "Liberty Times",
-      "url": "https://ent.ltn.com.tw/news/breakingnews/5623373",
-      "published_date": "2026-10-30T02:10:00Z",
+      "title": "Together stronger",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866924",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "MLB》鄭宗哲被紅襪交易至老虎 有望與李灝宇並肩作戰",
-      "source": "Liberty Times",
-      "url": "https://sports.ltn.com.tw/news/breakingnews/5623531",
-      "published_date": "2026-10-30T02:09:36Z",
+      "title": "Flame-boyant",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866925",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "54歲男多重慢性病血壓明顯下降未留意 腎功能快速惡化",
-      "source": "Liberty Times",
-      "url": "https://health.ltn.com.tw/article/breakingnews/5623522",
-      "published_date": "2026-10-30T02:08:17Z",
+      "title": "Local shares fall by almost 2.5 percent",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/31/2003866886",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "基泰鄰損案都更案簽約！出資者驚見新面孔 「都更大王」聯手皇昌、長虹重建",
-      "source": "Liberty Times",
-      "url": "https://estate.ltn.com.tw/article/29168",
-      "published_date": "2026-10-30T02:08:00Z",
+      "title": "MediaTek gains new AI customer",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/31/2003866887",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "焦點股》味全：擺脫水餃股 股價強攻漲停",
-      "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5623532",
-      "published_date": "2026-10-30T02:07:52Z",
+      "title": "Delta says Q4 revenue to rise from last quarter",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/31/2003866890",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "環湖電巴、循環杯減廢！日月潭獲全球百大綠色目的地獎",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5623528",
-      "published_date": "2026-10-30T02:07:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "川普施壓烏克蘭割地求和？胡振東示警：獎勵侵略者恐讓台海陷危機",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/def/breakingnews/5623534",
-      "published_date": "2026-10-30T02:06:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "凶殺案？台中公寓樓梯血跡斑斑 警追查驚見獨居翁倒浴室",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/society/breakingnews/5623516",
-      "published_date": "2026-10-30T02:06:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "206旅女中尉墜樓輕生 顧立雄允調查檢討：旅長、政戰主任已調職",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5623515",
-      "published_date": "2026-10-30T02:04:44Z",
+      "title": "Citi launches new Client Center in Taiwan",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/31/2003866892",
+      "published_date": "2026-10-31T00:00:00Z",
       "category": "Local Events"
     }
   ]
