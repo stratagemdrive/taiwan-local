@@ -1,12 +1,19 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-11-03T18:11:06Z",
+  "last_updated": "2026-11-04T02:58:39Z",
   "stories": [
     {
       "title": "MOFA buys Sydney property for new office, suspends Belize embassy work",
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867131",
       "published_date": "2026-11-04T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "中英對照讀新聞》Trump nominates wife of ’God Bless the USA’ singer Lee Greenwood to serve as US ambassador川普提名《天佑美國》原唱人李‧格林伍德之妻出任美國大使",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/paper/1777097",
+      "published_date": "2026-11-03T21:30:00Z",
       "category": "Diplomacy"
     },
     {
@@ -136,13 +143,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The digitally democratic campaign of Puma Shen",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/30/2003866845",
-      "published_date": "2026-10-30T00:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Washington strikes Iranian targets in the Strait of Hormuz: US official",
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/11/04/2003867115",
@@ -189,6 +189,13 @@
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/world/archives/2026/11/04/2003867143",
       "published_date": "2026-11-04T00:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "美伊僵局有望結束　國際油價下跌",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5628512",
+      "published_date": "2026-11-03T21:00:07Z",
       "category": "Military"
     },
     {
@@ -273,13 +280,6 @@
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/31/2003866900",
       "published_date": "2026-10-31T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "中英對照讀新聞》Venezuela claims to have 300 billion barrels of oil in the ground. But experts say that’s a stretch 委內瑞拉宣稱蘊藏3000億桶石油，但專家指言過其實",
-      "source": "Liberty Times",
-      "url": "https://news.ltn.com.tw/news/world/paper/1776584",
-      "published_date": "2026-10-30T21:30:00Z",
       "category": "Military"
     },
     {
@@ -381,11 +381,11 @@
       "category": "Energy"
     },
     {
-      "title": "Super-rich cashing in on climate crisis, report finds",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/world/archives/2026/10/28/2003866763",
-      "published_date": "2026-10-28T00:00:00Z",
-      "category": "Energy"
+      "title": "看好台積電！未來5年只能押1檔 外媒答案很直接",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5628644",
+      "published_date": "2026-11-04T02:00:17Z",
+      "category": "Economy"
     },
     {
       "title": "Lai touts Taiwan’s economic resilience",
@@ -521,150 +521,143 @@
       "category": "Economy"
     },
     {
-      "title": "金融信心大增 台股熱潮帶動民眾投資意願升溫",
+      "title": "自由開講》北京說是家務事，美軍已在備戰",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5626996",
-      "published_date": "2026-11-02T11:03:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "New science park to rise in Tainan: NSTC minister",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/04/2003867112",
-      "published_date": "2026-11-04T00:00:00Z",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5624764",
+      "published_date": "2026-11-04T02:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Midterm elections a referendum on Trump’s 2nd term",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/04/2003867114",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "把皇后的冠冕戴在頸間！Chaumet全新Joséphine鑽石項鍊藏百年設計巧思",
+      "source": "Liberty Times",
+      "url": "https://istyle.ltn.com.tw/article/41523",
+      "published_date": "2026-11-04T02:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Heightened Chinese activity detected",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867122",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "Xbox 上市 25 週年秘辛！微軟當年想買任天堂  遭對方當場大笑拒絕",
+      "source": "Liberty Times",
+      "url": "https://3c.ltn.com.tw/news/68139",
+      "published_date": "2026-11-04T02:25:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Bureau outlines proposed changes to repression laws",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867125",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "永和人記憶中的大戲院沒了！一次改建1400戶 總銷挑戰440億元",
+      "source": "Liberty Times",
+      "url": "https://estate.ltn.com.tw/article/29225",
+      "published_date": "2026-11-04T02:17:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Formal APEC invitation being sought: premier",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867126",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "超高齡社會如何吃出健康？營養師推地中海飲食 番茄鑲蛋補營養又少鹽",
+      "source": "Liberty Times",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5628648",
+      "published_date": "2026-11-04T02:06:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Paraguay officials explore medical exchange options",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867127",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "最高3年15萬簽約獎金！ 豐原醫院加碼福利搶放射師人才",
+      "source": "Liberty Times",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5628598",
+      "published_date": "2026-11-04T02:06:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Philippine senator calls for closer ties",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867128",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "SYM 米蘭車展火力全開！ADXTG 400、JET X 一次全亮相",
+      "source": "Liberty Times",
+      "url": "https://auto.ltn.com.tw/news/33343",
+      "published_date": "2026-11-04T02:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Former CCTV host seeks political asylum in Taiwan",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867129",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "男性登山客體力不支卡山路 苗消防跨單位夜宿成功搜救",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5628674",
+      "published_date": "2026-11-04T02:03:22Z",
       "category": "Local Events"
     },
     {
-      "title": "2026 Elections: Polls offer mixed picture of Taichung race",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867132",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "川普即將慘敗？美股期貨跳水拖累台股急殺近800點",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5628685",
+      "published_date": "2026-11-04T02:02:18Z",
       "category": "Local Events"
     },
     {
-      "title": "Flu epidemic might end this week, CDC reports",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867133",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "新北副市長調任副祕引揣測 侯友宜：與選舉、政治無關",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5628681",
+      "published_date": "2026-11-04T02:02:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Caregiver allegedly beaten, drugged, molested by family",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867134",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "高雄新台17線橋頭至左營緯六路段已開通  道路寬闊平坦順暢",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5628684",
+      "published_date": "2026-11-04T02:01:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Alleged robber seeks jail for room, board",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867135",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "波蘭網紅攝影師眼中的台灣   定居13年越想越不甘心",
+      "source": "Liberty Times",
+      "url": "https://ent.ltn.com.tw/news/breakingnews/5628599",
+      "published_date": "2026-11-04T02:01:07Z",
       "category": "Local Events"
     },
     {
-      "title": "Ministries to fund three comic series about sports",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867136",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "9旬婦稱「看電視」後覺得局勢動盪 要提4400萬買金條警銀忙攔阻",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5628658",
+      "published_date": "2026-11-04T02:00:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Scaffolding collapses in Beitou, injuring four",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867137",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "自由開講》洋流飄帶三大「不可能」是中國製！最後一點，才是關鍵",
+      "source": "Liberty Times",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5623975",
+      "published_date": "2026-11-04T02:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Feline festival",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867138",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "不只玩水看海！墾丁推古風深度遊 穿漢服遊閩南古厝拋繡球",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5628640",
+      "published_date": "2026-11-04T01:59:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Construction concerns",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867139",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "歐洲7航班、1郵輪同天收到炸彈威脅 多國展開搜查",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5628600",
+      "published_date": "2026-11-04T01:59:28Z",
       "category": "Local Events"
     },
     {
-      "title": "GlobalWafers to issue US$500m in bonds to Micron",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/04/2003867096",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "台17線嘉義東石路段貨車疑超載翻車 7人受傷送醫",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5628682",
+      "published_date": "2026-11-04T01:59:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Nvidia orders data centers to reduce China exposure",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/04/2003867097",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "拂曉出擊！蘇巧慧清晨果菜市場掃街 喊「新北隊準備好了」",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5628645",
+      "published_date": "2026-11-04T01:58:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Marvell Technology to acquire Lumentum Holdings in historic US$115 billion deal",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/04/2003867099",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "男山友火炎山北鞍線扭傷受困 消防與卓蘭救護協會搬運送醫",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5628646",
+      "published_date": "2026-11-04T01:58:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Bright eyes",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/04/2003867100",
-      "published_date": "2026-11-04T00:00:00Z",
+      "title": "南亞科營收連12月創高 股價卻跌破400元！股民嘆：記憶體風光過了",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5628669",
+      "published_date": "2026-11-04T01:57:50Z",
       "category": "Local Events"
     }
   ]
