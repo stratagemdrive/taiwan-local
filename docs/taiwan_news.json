@@ -1,6 +1,6 @@
 {
   "country": "taiwan",
-  "last_updated": "2026-11-06T17:46:51Z",
+  "last_updated": "2026-11-07T02:36:38Z",
   "stories": [
     {
       "title": "Is freedom possible  if Beijing takes over",
@@ -14,6 +14,13 @@
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/sport/archives/2026/11/07/2003867313",
       "published_date": "2026-11-07T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "旅展優惠戰開打 聯邦卡「這樣刷」輕鬆省破萬旅費",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5632320",
+      "published_date": "2026-11-06T22:14:34Z",
       "category": "Diplomacy"
     },
     {
@@ -133,13 +140,6 @@
       "source": "Liberty Times",
       "url": "https://news.ltn.com.tw/news/focus/breakingnews/5627186",
       "published_date": "2026-11-02T19:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "2026 Elections: KMT hopes to mobilize core supporters in run up",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/02/2003867008",
-      "published_date": "2026-11-02T00:00:00Z",
       "category": "Diplomacy"
     },
     {
@@ -300,7 +300,7 @@
       "title": "巴紐再見！台灣不再忍讓關館斷援 380億對台出口命脈保不住了？",
       "source": "Liberty Times",
       "url": "https://ec.ltn.com.tw/article/breakingnews/5632228",
-      "published_date": "2026-11-06T15:04:47Z",
+      "published_date": "2026-11-06T21:51:47Z",
       "category": "Energy"
     },
     {
@@ -388,13 +388,6 @@
       "category": "Energy"
     },
     {
-      "title": "Ministry approves first carbon sequestration exploration",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/31/2003866904",
-      "published_date": "2026-10-31T00:00:00Z",
-      "category": "Energy"
-    },
-    {
       "title": "Taiwan to activate NSF amid stock rout",
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/11/07/2003867305",
@@ -434,6 +427,13 @@
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/07/2003867292",
       "published_date": "2026-11-07T00:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "台股免驚！ 府院︰推政策穩市",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/paper/1777480",
+      "published_date": "2026-11-06T21:30:00Z",
       "category": "Economy"
     },
     {
@@ -528,150 +528,143 @@
       "category": "Economy"
     },
     {
-      "title": "台灣擠進前10名！2031年全球富裕國家排名預測 「這國」有望再奪冠",
+      "title": "IKEA收納榜霸主是「它」！萬用透明盒只要銅板價 尺寸多元分類方便",
       "source": "Liberty Times",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5628352",
-      "published_date": "2026-11-03T12:35:19Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Taiwan to close its office in Papua New Guinea",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/07/2003867307",
-      "published_date": "2026-11-07T00:00:00Z",
+      "url": "https://istyle.ltn.com.tw/article/41546",
+      "published_date": "2026-11-07T02:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Leader change will not affect ties with Paraguay: ministry",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/07/2003867308",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "台北酸種麵包「TÉSUAN遞頌」主廚自養酵母、口味週週更新！美型可頌甜點魂爆發",
+      "source": "Liberty Times",
+      "url": "https://playing.ltn.com.tw/article/32739",
+      "published_date": "2026-11-07T02:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Opposition eases on draft position to oust Netanyahu",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/07/2003867309",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "南韓最大券商未來資產個資外洩 近4萬名員工、用戶遭殃",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5632405",
+      "published_date": "2026-11-07T02:28:54Z",
       "category": "Local Events"
     },
     {
-      "title": "Police arrest man over AI data theft in Kaohsiung",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867317",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "恐怖前男友！在IG、抖音散布前任裸照、性影像被訴",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5632431",
+      "published_date": "2026-11-07T02:27:06Z",
       "category": "Local Events"
     },
     {
-      "title": "Second batch of three F-16V jets to arrive soon: Koo",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867318",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "台股暴跌的兇手？外媒一文揪出引爆關鍵",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5632425",
+      "published_date": "2026-11-07T02:25:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Taipei mayor race a victory for democracy whoever wins: Shen",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867319",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "台股昨盤中史詩級大跌！但融資追繳令未失控、多數「自行出場」",
+      "source": "Liberty Times",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5632435",
+      "published_date": "2026-11-07T02:25:30Z",
       "category": "Local Events"
     },
     {
-      "title": "Farmers’ allowance raised to NT$15,000",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867320",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "蔣萬安掃街大批人馬「包圍」洋流店家被轟圍事 徐巧芯自清不是出征",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5632423",
+      "published_date": "2026-11-07T02:25:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Premier  refuses to countersign bill on seniors’ NHI premiums",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867321",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "客家粄粽飛上天！苗栗風箏美食節登場 今晚夜光風箏點亮夜空",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5632427",
+      "published_date": "2026-11-07T02:24:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Baseball star awarded gold card",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867324",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "車開出門就違規！12天連遭鄰居檢舉17張紅單 法官一原因撤罰",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5632424",
+      "published_date": "2026-11-07T02:23:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Mandarin teacher wins award for overseas educators",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867326",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "統一青銀童樂嘉年華 400大小朋友相見歡",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5632429",
+      "published_date": "2026-11-07T02:20:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Artist rethinks monuments with piece, wins prize",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867327",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "43砲指部部署海馬士  與菲北美軍南北夾擊 共軍艦隊1艘都跑不掉",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/def/breakingnews/5632432",
+      "published_date": "2026-11-07T02:19:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Friendly toast",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867328",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "英航艦「伊莉莎白女王號」首射自殺無人機 F-35B將搭配無人機作戰",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/def/breakingnews/5632430",
+      "published_date": "2026-11-07T02:14:03Z",
       "category": "Local Events"
     },
     {
-      "title": "Gold stars",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867329",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "用大數據揪出車禍發生癥結 屏警建置交通事故應用平台",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5632422",
+      "published_date": "2026-11-07T02:11:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Google to build Wyoming facility",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/07/2003867289",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "田間灌溉遭高壓水柱擊倒 竟造成氣管破裂",
+      "source": "Liberty Times",
+      "url": "https://health.ltn.com.tw/article/breakingnews/5632380",
+      "published_date": "2026-11-07T02:06:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Catcher Technology optimistic about its components sector",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/07/2003867291",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "川普頭號親信米勒將任幕僚長 主導鐵腕打擊移民",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/world/breakingnews/5632408",
+      "published_date": "2026-11-07T02:04:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Digital pets",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/07/2003867293",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "高雄美術館豪宅遭潑紅漆 3男到案稱債務糾紛",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5632410",
+      "published_date": "2026-11-07T02:00:28Z",
       "category": "Local Events"
     },
     {
-      "title": "EDITORIAL: Clock ticking on repression laws",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/11/07/2003867294",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "NBA》自家球員說天后泰勒絲是假尼克迷 球團出面擦屁股",
+      "source": "Liberty Times",
+      "url": "https://sports.ltn.com.tw/news/breakingnews/5632399",
+      "published_date": "2026-11-07T02:00:03Z",
       "category": "Local Events"
     },
     {
-      "title": "Stop stereotyping migrant workers",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/11/07/2003867295",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "自由開講》勞動力愈來愈少，台灣為何沒有第三人生教育？",
+      "source": "Liberty Times",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5629304",
+      "published_date": "2026-11-07T02:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Building new ties post-US elections",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/11/07/2003867297",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "YouTube大改版惹怒用戶！用了10年功能被移走　內行曝解法",
+      "source": "Liberty Times",
+      "url": "https://3c.ltn.com.tw/news/68177",
+      "published_date": "2026-11-07T02:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Wong undefeated despite ruling",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/11/07/2003867298",
-      "published_date": "2026-11-07T00:00:00Z",
+      "title": "把修車廠當免費停車場？車主送修竟神隱 法院判移車賠萬元",
+      "source": "Liberty Times",
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5632397",
+      "published_date": "2026-11-07T01:58:34Z",
       "category": "Local Events"
     }
   ]
